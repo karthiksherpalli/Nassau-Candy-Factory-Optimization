@@ -1,0 +1,656 @@
+Country/Region,State/Province,City,Postal Code,Region,Customer Latitude,Customer Longitude,Distance to Lot's O' Nuts (KM),Distance to Wicked Choccy's (KM),Distance to Sugar Shack (KM),Distance to Secret Factory (KM),Distance to The Other Factory (KM),Nearest Factory,Nearest Factory Distance KM
+United States,Texas,Houston,77095,Interior,29.8941,-95.6481,1564.09,1407.84,2027.04,1363.45,787.56,The Other Factory,787.56
+United States,Illinois,Naperville,60540,Interior,41.7662,-88.141,2300.81,1245.52,947.36,204.69,756.23,Secret Factory,204.69
+United States,Pennsylvania,Philadelphia,19143,Atlantic,39.9448,-75.2288,3337.89,1020.84,1896.99,1301.96,1404.22,Wicked Choccy's,1020.84
+United States,Kentucky,Henderson,42420,Gulf,37.8274,-87.5632,2255.92,869.69,1340.16,477.44,370.31,The Other Factory,370.31
+United States,Georgia,Athens,30605,Gulf,33.9321,-83.3525,2631.8,295.22,1903.99,1048.41,620.37,Wicked Choccy's,295.22
+United States,California,Los Angeles,90049,Pacific,34.066,-118.474,635.64,3471.34,2419.75,2573.86,2602.82,Lot's O' Nuts,635.64
+United States,Texas,Huntsville,77340,Interior,30.6448,-95.5798,1548.93,1384.08,1943.73,1282.27,722.0,The Other Factory,722.0
+United States,Texas,Laredo,78041,Interior,27.5569,-99.4907,1318.64,1842.41,2304.26,1745.23,1233.36,The Other Factory,1233.36
+United States,Virginia,Springfield,22153,Gulf,38.7449,-77.237,3161.63,819.35,1843.14,1171.51,1200.31,Wicked Choccy's,819.35
+United States,Delaware,Dover,19901,Atlantic,39.1564,-75.4955,3312.96,935.16,1931.01,1301.32,1357.64,Wicked Choccy's,935.16
+United States,California,San Francisco,94109,Pacific,37.7917,-122.4186,1108.64,3789.7,2407.54,2742.66,2902.62,Lot's O' Nuts,1108.64
+United States,South Carolina,Mount Pleasant,29464,Gulf,32.8473,-79.8206,2972.23,146.63,2180.95,1347.45,968.85,Wicked Choccy's,146.63
+United States,Ohio,Newark,43055,Atlantic,40.0724,-82.4046,2730.22,896.94,1414.4,703.83,864.27,Secret Factory,703.83
+United States,Louisiana,Bossier City,71111,Gulf,32.5449,-93.7038,1688.4,1186.02,1744.21,1028.08,447.93,The Other Factory,447.93
+United States,Pennsylvania,Philadelphia,19140,Atlantic,40.0118,-75.1456,3345.23,1030.94,1898.45,1307.32,1413.25,Wicked Choccy's,1030.94
+United States,Georgia,Roswell,30076,Gulf,34.0213,-84.3104,2542.94,370.05,1851.95,991.43,532.36,Wicked Choccy's,370.05
+United States,Pennsylvania,Philadelphia,19134,Atlantic,39.9925,-75.1133,3347.91,1030.65,1901.93,1310.46,1415.21,Wicked Choccy's,1030.65
+United States,Oregon,Springfield,97477,Pacific,44.0611,-123.0153,1579.22,3856.47,2106.51,2648.08,2977.48,Lot's O' Nuts,1579.22
+United States,Arizona,Scottsdale,85254,Pacific,33.6165,-111.9554,83.52,2877.98,2079.56,2069.97,2020.6,Lot's O' Nuts,83.52
+United States,Arkansas,Jonesboro,72401,Gulf,35.833,-90.6965,1957.94,979.09,1438.46,624.28,103.17,The Other Factory,103.17
+United States,Michigan,Westland,48185,Interior,42.3358,-83.3846,2696.02,1158.67,1188.4,602.38,984.52,Secret Factory,602.38
+United States,Tennessee,Smyrna,37167,Gulf,35.9656,-86.5048,2335.76,660.26,1567.12,703.75,327.48,The Other Factory,327.48
+United States,Florida,Miami,33180,Gulf,25.9597,-80.1403,3145.65,686.33,2832.77,1970.12,1385.26,Wicked Choccy's,686.33
+Canada,Ontario,Toronto,M7A,Atlantic,43.6641,-79.3889,3045.68,1297.04,1387.29,947.26,1313.22,Secret Factory,947.26
+United States,Indiana,Lafayette,47905,Interior,40.4001,-86.8602,2364.47,1059.88,1133.09,332.3,647.82,Secret Factory,332.3
+United States,Nevada,Las Vegas,89115,Pacific,36.2158,-115.0671,478.17,3144.4,2033.33,2192.3,2264.08,Lot's O' Nuts,478.17
+United States,South Dakota,Rapid City,57701,Interior,44.1415,-103.2052,1455.0,2342.44,698.51,1072.74,1510.28,Sugar Shack,698.51
+United States,Virginia,Alexandria,22304,Gulf,38.8149,-77.121,3171.84,830.81,1845.75,1178.51,1212.1,Wicked Choccy's,830.81
+United States,California,San Diego,92037,Pacific,32.8455,-117.2521,512.17,3377.3,2446.4,2538.4,2520.21,Lot's O' Nuts,512.17
+United States,New York,New York City,10024,Atlantic,40.7864,-73.9764,3447.55,1157.86,1932.75,1389.5,1534.52,Wicked Choccy's,1157.86
+United States,Michigan,Detroit,48234,Interior,42.4337,-83.0434,2725.81,1164.53,1204.39,631.56,1010.38,Secret Factory,631.56
+United States,California,Mission Viejo,92691,Pacific,33.6128,-117.6622,554.03,3403.24,2406.55,2530.52,2539.01,Lot's O' Nuts,554.03
+United States,Wisconsin,Green Bay,54302,Interior,44.5025,-87.9771,2421.99,1505.47,746.91,399.74,1057.28,Secret Factory,399.74
+United States,Florida,Saint Petersburg,33710,Gulf,27.7898,-82.7243,2834.82,501.99,2541.26,1677.68,1065.31,Wicked Choccy's,501.99
+United States,Washington,Seattle,98105,Pacific,47.6633,-122.3022,1866.88,3861.84,1938.89,2587.82,3006.3,Lot's O' Nuts,1866.88
+United States,California,Escondido,92025,Pacific,33.1101,-117.07,495.06,3356.25,2412.94,2509.1,2497.02,Lot's O' Nuts,495.06
+United States,California,San Diego,92024,Pacific,33.0535,-117.2689,513.47,3375.48,2429.7,2528.34,2516.49,Lot's O' Nuts,513.47
+United States,Illinois,Romeoville,60441,Interior,41.593,-88.0507,2302.19,1225.25,967.07,209.99,739.2,Secret Factory,209.99
+United States,Virginia,Chesapeake,23320,Gulf,36.7352,-76.2384,3253.26,682.69,2058.7,1340.73,1248.43,Wicked Choccy's,682.69
+United States,New Jersey,Linden,7036,Atlantic,40.6354,-74.2556,3423.32,1130.59,1922.0,1368.81,1506.79,Wicked Choccy's,1130.59
+United States,Nevada,North Las Vegas,89031,Pacific,36.2589,-115.1718,487.91,3153.65,2036.34,2199.1,2273.08,Lot's O' Nuts,487.91
+United States,Missouri,Columbia,65203,Interior,38.9348,-92.3639,1868.06,1272.43,1066.25,318.3,474.6,Secret Factory,318.3
+United States,California,Concord,94521,Pacific,37.9575,-121.975,1082.51,3749.92,2365.32,2699.89,2862.54,Lot's O' Nuts,1082.51
+United States,Washington,Seattle,98103,Pacific,47.6733,-122.3426,1869.43,3865.03,1941.64,2590.91,3009.52,Lot's O' Nuts,1869.43
+United States,Texas,Dallas,75220,Interior,32.8681,-96.8622,1390.86,1480.98,1696.8,1104.32,682.57,The Other Factory,682.57
+United States,Illinois,Chicago,60653,Interior,41.8196,-87.6126,2344.38,1227.85,970.98,248.88,772.92,Secret Factory,248.88
+United States,Texas,Lubbock,79424,Interior,33.5159,-101.9344,917.34,1951.78,1693.2,1333.54,1112.33,Lot's O' Nuts,917.34
+United States,Texas,Arlington,76017,Interior,32.6555,-97.1599,1365.0,1509.38,1721.44,1138.43,717.6,The Other Factory,717.6
+United States,Indiana,Richmond,47374,Interior,39.8324,-84.8936,2516.45,927.72,1287.71,511.0,689.4,Secret Factory,511.0
+United States,Illinois,Woodstock,60098,Interior,42.3198,-88.4477,2296.45,1311.1,883.85,200.42,811.65,Secret Factory,200.42
+United States,California,Moreno Valley,92553,Pacific,33.9157,-117.2351,520.3,3359.92,2355.16,2479.89,2493.73,Lot's O' Nuts,520.3
+United States,Texas,El Paso,79907,Interior,31.7089,-106.3293,527.51,2377.86,2015.44,1771.06,1562.88,Lot's O' Nuts,527.51
+United States,Oregon,Medford,97504,Pacific,42.3363,-122.8398,1431.52,3827.07,2171.92,2657.26,2941.74,Lot's O' Nuts,1431.52
+United States,Ohio,Columbus,43229,Atlantic,40.0839,-82.9726,2682.53,906.31,1378.89,656.92,827.2,Secret Factory,656.92
+United States,Illinois,Elmhurst,60126,Interior,41.8927,-87.941,2320.88,1248.73,947.11,223.56,773.73,Secret Factory,223.56
+United States,Washington,Seattle,98115,Pacific,47.6849,-122.2968,1868.7,3861.93,1938.02,2587.57,3006.57,Lot's O' Nuts,1868.7
+United States,Texas,Houston,77036,Interior,29.6984,-95.5405,1580.3,1403.06,2049.02,1380.97,797.46,The Other Factory,797.46
+United States,New York,New York City,10035,Atlantic,40.8011,-73.9371,3450.93,1161.12,1934.67,1392.53,1538.18,Wicked Choccy's,1161.12
+United States,New York,New York City,10009,Atlantic,40.7262,-73.9796,3447.0,1152.26,1936.11,1390.23,1532.08,Wicked Choccy's,1152.26
+United States,Pennsylvania,Philadelphia,19120,Atlantic,40.0343,-75.1213,3347.39,1034.17,1898.69,1308.83,1415.99,Wicked Choccy's,1034.17
+United States,North Carolina,Wilmington,28403,Gulf,34.2237,-77.8862,3128.83,381.92,2164.62,1370.52,1108.94,Wicked Choccy's,381.92
+United States,Florida,Margate,33063,Gulf,26.2674,-80.2092,3126.75,651.51,2798.92,1936.45,1354.84,Wicked Choccy's,651.51
+United States,South Carolina,Columbia,29203,Gulf,34.0635,-81.0265,2843.69,221.06,2006.22,1172.12,826.83,Wicked Choccy's,221.06
+United States,New York,Yonkers,10701,Atlantic,40.9461,-73.8669,3457.56,1177.67,1931.1,1396.1,1549.08,Wicked Choccy's,1177.67
+United States,Washington,Des Moines,98198,Pacific,47.3929,-122.3129,1841.91,3856.74,1945.75,2586.85,2999.04,Lot's O' Nuts,1841.91
+United States,Colorado,Denver,80219,Pacific,39.6956,-105.0341,968.0,2308.75,1173.21,1235.97,1422.3,Lot's O' Nuts,968.0
+United States,Michigan,Royal Oak,48073,Interior,42.519,-83.157,2718.98,1175.41,1191.27,623.65,1012.06,Secret Factory,623.65
+United States,Kentucky,Richmond,40475,Gulf,37.7546,-84.2955,2541.03,695.71,1501.21,675.77,586.16,The Other Factory,586.16
+United States,California,Roseville,95661,Pacific,38.7346,-121.234,1072.37,3682.69,2262.14,2612.47,2794.16,Lot's O' Nuts,1072.37
+Canada,Alberta,Calgary,T2C,Pacific,50.987,-113.9634,2021.14,3404.3,1318.23,2076.23,2607.67,Sugar Shack,1318.23
+United States,California,Huntington Beach,92646,Pacific,33.6654,-117.9686,582.89,3430.62,2421.06,2552.84,2565.63,Lot's O' Nuts,582.89
+United States,Utah,Logan,84321,Pacific,41.747,-111.8226,985.77,2917.1,1416.73,1763.46,2034.05,Lot's O' Nuts,985.77
+United States,Florida,Jacksonville,32216,Gulf,30.2787,-81.5831,2864.24,205.34,2340.03,1480.35,951.01,Wicked Choccy's,205.34
+United States,Florida,Tampa,33614,Gulf,28.0091,-82.5034,2847.69,472.29,2527.73,1664.01,1060.09,Wicked Choccy's,472.29
+United States,North Carolina,Raleigh,27604,Gulf,35.8334,-78.5799,3049.53,477.52,1986.94,1212.07,1033.99,Wicked Choccy's,477.52
+United States,Minnesota,Lakeville,55044,Interior,44.6749,-93.2578,2063.63,1753.05,443.69,420.33,1098.84,Secret Factory,420.33
+United States,Mississippi,Jackson,39212,Gulf,32.2435,-90.2612,2013.29,863.41,1834.12,1023.66,320.7,The Other Factory,320.7
+United States,Texas,Dallas,75217,Interior,32.7244,-96.6755,1409.51,1463.85,1712.32,1110.26,673.22,The Other Factory,673.22
+United States,California,San Francisco,94110,Pacific,37.7509,-122.4153,1106.37,3789.66,2410.03,2743.83,2902.66,Lot's O' Nuts,1106.37
+United States,California,Burbank,91505,Pacific,34.169,-118.3442,626.04,3458.11,2403.22,2558.04,2588.97,Lot's O' Nuts,626.04
+United States,Florida,Lakeland,33801,Gulf,28.0381,-81.9392,2899.3,456.41,2547.79,1684.28,1093.96,Wicked Choccy's,456.41
+United States,Tennessee,Knoxville,37918,Gulf,36.0501,-83.9226,2568.08,513.18,1676.17,831.29,556.62,Wicked Choccy's,513.18
+United States,Ohio,Hamilton,45011,Atlantic,39.4059,-84.5221,2540.7,871.76,1344.46,559.44,677.91,Secret Factory,559.44
+United States,North Carolina,Asheville,28806,Gulf,35.5808,-82.6078,2687.69,414.18,1785.46,950.39,669.64,Wicked Choccy's,414.18
+United States,Arizona,Tucson,85705,Pacific,32.2691,-110.9845,100.17,2804.7,2156.77,2076.06,1965.91,Lot's O' Nuts,100.17
+United States,Indiana,Portage,46368,Interior,41.5672,-87.1757,2371.11,1185.52,1015.96,282.57,757.36,Secret Factory,282.57
+United States,North Carolina,Greensboro,27405,Gulf,36.1214,-79.7733,2940.62,465.81,1892.71,1105.79,928.08,Wicked Choccy's,465.81
+United States,Florida,Delray Beach,33445,Gulf,26.4564,-80.1054,3128.87,632.11,2784.48,1922.42,1345.95,Wicked Choccy's,632.11
+United States,California,Los Angeles,90036,Pacific,34.0699,-118.3492,624.41,3459.88,2411.58,2563.41,2591.44,Lot's O' Nuts,624.41
+United States,California,Fresno,93727,Pacific,36.7528,-119.7061,842.39,3556.28,2292.94,2555.45,2672.55,Lot's O' Nuts,842.39
+United States,California,San Francisco,94122,Pacific,37.7593,-122.4836,1112.18,3795.6,2414.27,2749.22,2908.58,Lot's O' Nuts,1112.18
+United States,California,Pomona,91767,Pacific,34.0812,-117.7362,569.25,3403.66,2372.39,2512.5,2535.72,Lot's O' Nuts,569.25
+United States,Ohio,Springfield,45503,Atlantic,39.9528,-83.7804,2612.35,908.56,1341.28,595.43,765.8,Secret Factory,595.43
+United States,Iowa,Des Moines,50315,Interior,41.5444,-93.6192,1867.99,1530.85,758.36,254.55,782.08,Secret Factory,254.55
+United States,New Mexico,Albuquerque,87105,Pacific,35.0448,-106.6893,526.42,2388.35,1692.72,1574.29,1519.5,Lot's O' Nuts,526.42
+United States,Texas,Plano,75023,Interior,33.055,-96.7365,1401.22,1469.09,1675.7,1080.46,663.72,The Other Factory,663.72
+United States,Texas,Brownsville,78521,Interior,25.9221,-97.4612,1585.15,1730.61,2470.72,1838.73,1248.11,The Other Factory,1248.11
+United States,New York,Long Beach,11561,Atlantic,40.5877,-73.6595,3473.4,1155.96,1967.16,1419.33,1552.86,Wicked Choccy's,1155.96
+United States,Minnesota,Apple Valley,55124,Interior,44.7497,-93.2029,2071.81,1756.49,438.63,425.12,1105.67,Secret Factory,425.12
+United States,Illinois,Chicago,60610,Interior,41.9033,-87.6336,2345.48,1236.77,962.82,248.74,781.39,Secret Factory,248.74
+United States,California,Vallejo,94591,Pacific,38.0985,-122.2124,1108.25,3770.0,2372.67,2714.8,2882.35,Lot's O' Nuts,1108.25
+United States,Massachusetts,Revere,2151,Atlantic,42.4138,-71.0052,3702.99,1453.02,2059.06,1618.1,1828.01,Wicked Choccy's,1453.02
+United States,Virginia,Virginia Beach,23464,Gulf,36.7978,-76.1759,3258.45,691.59,2057.86,1342.5,1254.5,Wicked Choccy's,691.59
+United States,California,Los Angeles,90008,Pacific,34.0116,-118.3411,622.54,3459.92,2415.82,2565.68,2591.92,Lot's O' Nuts,622.54
+United States,Michigan,Detroit,48205,Interior,42.4313,-82.9813,2730.71,1163.47,1208.66,636.57,1013.37,Secret Factory,636.57
+United States,Louisiana,Lafayette,70506,Gulf,30.2077,-92.0656,1887.74,1064.65,2022.25,1256.92,580.04,The Other Factory,580.04
+United States,Michigan,Dearborn Heights,48127,Interior,42.3353,-83.2864,2703.86,1157.13,1194.87,610.39,989.42,Secret Factory,610.39
+United States,Illinois,Decatur,62521,Interior,39.8395,-88.9465,2177.52,1114.98,1086.4,224.9,532.78,Secret Factory,224.9
+United States,California,Los Angeles,90004,Pacific,34.0762,-118.3029,620.34,3455.56,2408.17,2559.29,2587.12,Lot's O' Nuts,620.34
+United States,Pennsylvania,Lancaster,17602,Atlantic,40.0335,-76.2844,3248.45,984.17,1818.33,1211.98,1322.35,Wicked Choccy's,984.17
+United States,Alabama,Mobile,36608,Gulf,30.6817,-88.2945,2227.6,701.29,2051.26,1214.12,517.45,The Other Factory,517.45
+United States,Georgia,Marietta,30062,Gulf,34.0025,-84.4633,2529.08,380.55,1847.07,985.86,519.3,Wicked Choccy's,380.55
+United States,Alabama,Decatur,35601,Gulf,34.5896,-86.9887,2293.46,615.14,1685.91,824.1,278.39,The Other Factory,278.39
+United States,Ohio,Toledo,43615,Atlantic,41.6492,-83.6706,2655.87,1088.83,1217.8,574.07,909.96,Secret Factory,574.07
+United States,Arizona,Glendale,85301,Pacific,33.5311,-112.1767,81.59,2899.28,2099.01,2092.43,2042.55,Lot's O' Nuts,81.59
+United States,Arizona,Chandler,85224,Pacific,33.3301,-111.8632,50.62,2872.51,2101.1,2079.31,2018.49,Lot's O' Nuts,50.62
+United States,Idaho,Lewiston,83501,Pacific,46.3646,-116.8609,1560.5,3427.36,1568.44,2165.4,2569.52,Lot's O' Nuts,1560.5
+United States,Montana,Great Falls,59405,Pacific,47.495,-111.2502,1625.49,3064.96,1125.71,1766.96,2235.33,Sugar Shack,1125.71
+United States,Texas,Austin,78745,Interior,30.2063,-97.7956,1355.97,1601.93,1996.56,1408.29,913.1,The Other Factory,913.1
+United States,California,Redondo Beach,90278,Pacific,33.8707,-118.3715,622.83,3464.64,2429.23,2575.31,2597.65,Lot's O' Nuts,622.83
+United States,California,Lodi,95240,Pacific,38.1222,-121.2555,1036.95,3686.24,2303.92,2634.31,2798.61,Lot's O' Nuts,1036.95
+United States,Indiana,Bloomington,47401,Interior,39.1401,-86.5083,2367.23,925.32,1263.97,429.07,542.4,Secret Factory,429.07
+United States,Maryland,Baltimore,21215,Atlantic,39.3446,-76.6794,3211.53,900.61,1837.89,1197.54,1265.58,Wicked Choccy's,900.61
+United States,California,San Jose,95123,Pacific,37.2458,-121.8306,1035.62,3741.41,2403.49,2713.55,2855.73,Lot's O' Nuts,1035.62
+United States,Virginia,Arlington,22204,Gulf,38.859,-77.0997,3173.79,836.01,1844.0,1178.7,1215.22,Wicked Choccy's,836.01
+United States,California,Los Angeles,90045,Pacific,33.9631,-118.3941,626.46,3465.43,2423.1,2572.48,2597.73,Lot's O' Nuts,626.46
+United States,Texas,Houston,77070,Interior,29.9781,-95.5803,1567.76,1399.31,2017.84,1352.54,776.23,The Other Factory,776.23
+United States,New York,Troy,12180,Atlantic,42.7287,-73.6683,3488.07,1352.41,1848.42,1399.26,1640.53,Wicked Choccy's,1352.41
+United States,California,San Gabriel,91776,Pacific,34.089,-118.0955,601.85,3436.42,2394.13,2541.61,2568.08,Lot's O' Nuts,601.85
+United States,New York,Jamestown,14701,Atlantic,42.0928,-79.244,3025.14,1125.67,1484.22,940.97,1210.92,Secret Factory,940.97
+United States,Tennessee,Memphis,38109,Gulf,35.0425,-90.0732,2011.18,895.05,1538.99,713.37,12.48,The Other Factory,12.48
+United States,Louisiana,Lake Charles,70601,Gulf,30.2285,-93.188,1782.64,1168.92,2005.6,1269.39,621.34,The Other Factory,621.34
+United States,New York,Rochester,14609,Atlantic,43.174,-77.5637,3180.21,1272.13,1543.36,1085.09,1392.82,Secret Factory,1085.09
+United States,Kentucky,Louisville,40214,Gulf,38.1593,-85.778,2415.51,799.38,1389.81,548.33,504.25,The Other Factory,504.25
+United States,Wisconsin,Appleton,54915,Interior,44.2425,-88.3564,2382.68,1493.12,740.17,359.28,1023.96,Secret Factory,359.28
+United States,Connecticut,Middletown,6457,Atlantic,41.5569,-72.6652,3561.16,1292.19,1982.8,1488.07,1666.54,Wicked Choccy's,1292.19
+United States,Michigan,Jackson,49201,Interior,42.2545,-84.3875,2613.8,1168.66,1129.16,519.42,929.36,Secret Factory,519.42
+United States,Texas,San Antonio,78207,Interior,29.4229,-98.526,1316.4,1690.32,2088.58,1517.39,1022.93,The Other Factory,1022.93
+United States,Illinois,Freeport,61032,Interior,42.2991,-89.6345,2204.12,1364.1,825.09,122.2,799.09,Secret Factory,122.2
+United States,Massachusetts,Lawrence,1841,Atlantic,42.7115,-71.167,3691.62,1469.67,2032.55,1603.6,1827.29,Wicked Choccy's,1469.67
+Canada,Ontario,Toronto,M3C,Atlantic,43.7334,-79.3329,3051.7,1305.25,1387.86,953.2,1321.76,Secret Factory,953.2
+United States,Washington,Kent,98031,Pacific,47.388,-122.1932,1836.61,3847.79,1937.05,2577.82,2990.21,Lot's O' Nuts,1836.61
+United States,Texas,Fort Worth,76106,Interior,32.7968,-97.356,1345.43,1527.27,1706.61,1133.79,728.12,The Other Factory,728.12
+United States,New York,Watertown,13601,Atlantic,43.9743,-75.9122,3326.11,1397.77,1625.32,1228.0,1552.82,Secret Factory,1228.0
+United States,Wisconsin,Milwaukee,53209,Interior,43.1188,-87.9478,2365.41,1367.33,847.19,284.51,906.58,Secret Factory,284.51
+United States,Massachusetts,Franklin,2038,Atlantic,42.0935,-71.4058,3668.29,1404.52,2045.93,1587.25,1784.91,Wicked Choccy's,1404.52
+United States,Florida,Hialeah,33012,Gulf,25.8654,-80.3059,3134.16,694.78,2835.18,1972.21,1382.65,Wicked Choccy's,694.78
+United States,Utah,West Jordan,84084,Pacific,40.6254,-111.9677,861.22,2906.54,1501.73,1792.84,2019.29,Lot's O' Nuts,861.22
+United States,California,Oakland,94601,Pacific,37.7806,-122.2166,1092.21,3772.04,2394.09,2726.22,2885.01,Lot's O' Nuts,1092.21
+United States,Wisconsin,Eau Claire,54703,Interior,44.8346,-91.5159,2189.94,1681.16,510.7,384.56,1088.42,Secret Factory,384.56
+United States,Ohio,Akron,44312,Atlantic,41.0334,-81.4385,2826.42,996.49,1404.92,764.17,994.36,Secret Factory,764.17
+United States,Ohio,Cleveland,44105,Atlantic,41.4509,-81.619,2819.12,1043.49,1364.24,745.32,1012.65,Secret Factory,745.32
+United States,Michigan,Midland,48640,Interior,43.6376,-84.268,2665.32,1315.24,1046.62,570.37,1066.03,Secret Factory,570.37
+United States,New Hampshire,Dover,3820,Atlantic,43.1888,-70.8868,3717.87,1525.14,2030.63,1625.73,1868.16,Wicked Choccy's,1525.14
+United States,Texas,San Marcos,78666,Interior,29.8754,-97.9404,1353.44,1623.42,2034.16,1447.51,947.23,The Other Factory,947.23
+Canada,British Columbia,Vancouver,V6Z,Pacific,49.2767,-123.13,2051.51,3959.49,1971.5,2664.79,3116.57,Sugar Shack,1971.5
+Canada,Quebec,Montreal,H1A,Atlantic,45.6753,-73.5016,3545.59,1646.72,1737.97,1449.75,1816.66,Secret Factory,1449.75
+United States,Washington,Bellevue,98006,Pacific,47.5614,-122.1552,1851.43,3848.79,1930.32,2576.1,2992.62,Lot's O' Nuts,1851.43
+United States,Illinois,Chicago,60623,Interior,41.849,-87.7157,2337.19,1234.99,962.92,240.97,773.74,Secret Factory,240.97
+United States,Utah,Murray,84107,Pacific,40.6568,-111.8904,864.6,2900.67,1494.46,1785.81,2013.52,Lot's O' Nuts,864.6
+United States,California,San Diego,92105,Pacific,32.7423,-117.0947,497.99,3364.47,2445.84,2531.38,2508.57,Lot's O' Nuts,497.99
+United States,Illinois,Buffalo Grove,60089,Interior,42.1598,-87.9644,2328.28,1275.19,923.36,229.72,802.16,Secret Factory,229.72
+United States,Virginia,Richmond,23223,Gulf,37.5477,-77.3948,3147.62,695.44,1922.2,1208.84,1157.52,Wicked Choccy's,695.44
+United States,Arkansas,Little Rock,72209,Gulf,34.6725,-92.3529,1802.65,1084.42,1528.4,769.25,222.78,The Other Factory,222.78
+United States,New Jersey,Lakewood,8701,Atlantic,40.085,-74.2042,3425.57,1083.52,1959.57,1384.1,1492.17,Wicked Choccy's,1083.52
+United States,Utah,Orem,84057,Pacific,40.3134,-111.6953,826.37,2878.35,1506.12,1776.48,1990.44,Lot's O' Nuts,826.37
+United States,Illinois,Aurora,60505,Interior,41.7582,-88.2971,2288.21,1251.77,939.94,191.77,752.62,Secret Factory,191.77
+United States,Illinois,Peoria,61604,Interior,40.7111,-89.6324,2146.85,1226.16,973.38,113.14,622.69,Secret Factory,113.14
+United States,Tennessee,Bristol,37620,Gulf,36.5686,-82.1819,2723.85,509.52,1718.91,904.21,720.17,Wicked Choccy's,509.52
+United States,California,Los Angeles,90032,Pacific,34.0818,-118.1753,608.91,3443.82,2399.71,2548.52,2575.46,Lot's O' Nuts,608.91
+United States,Virginia,Harrisonburg,22801,Gulf,38.4489,-78.8714,3018.82,736.58,1759.36,1050.1,1054.76,Wicked Choccy's,736.58
+United States,Indiana,Mishawaka,46544,Interior,41.6507,-86.1623,2454.77,1155.81,1066.28,367.09,798.5,Secret Factory,367.09
+United States,New York,Hempstead,11550,Atlantic,40.7049,-73.6176,3477.39,1168.47,1963.13,1420.75,1560.25,Wicked Choccy's,1168.47
+United States,Delaware,Newark,19711,Atlantic,39.7011,-75.7375,3293.57,974.82,1877.83,1265.7,1354.59,Wicked Choccy's,974.82
+Canada,Nova Scotia,Halifax,B3H,Atlantic,44.6344,-63.5822,4308.98,2060.62,2511.32,2210.95,2473.36,Wicked Choccy's,2060.62
+United States,Oklahoma,Lawton,73505,Interior,34.6179,-98.4552,1244.93,1635.58,1513.03,1025.73,775.78,The Other Factory,775.78
+United States,Virginia,Waynesboro,22980,Gulf,38.0774,-78.9035,3015.07,696.23,1785.89,1063.82,1040.61,Wicked Choccy's,696.23
+United States,Connecticut,Meriden,6450,Atlantic,41.5334,-72.7997,3549.85,1283.27,1974.36,1477.18,1655.13,Wicked Choccy's,1283.27
+United States,Colorado,Pueblo,81001,Pacific,38.2879,-104.5848,884.49,2237.08,1286.26,1245.34,1348.02,Lot's O' Nuts,884.49
+United States,Pennsylvania,Chester,19013,Atlantic,39.8498,-75.3747,3325.1,1005.23,1893.05,1292.11,1389.14,Wicked Choccy's,1005.23
+United States,Arizona,Phoenix,85023,Pacific,33.6324,-112.1118,89.36,2892.24,2086.32,2081.47,2034.49,Lot's O' Nuts,89.36
+United States,Minnesota,Minneapolis,55407,Interior,44.9378,-93.2545,2079.95,1775.01,418.57,445.18,1126.92,Sugar Shack,418.57
+United States,Colorado,Louisville,80027,Pacific,39.9789,-105.1456,986.14,2325.77,1152.74,1238.16,1440.48,Lot's O' Nuts,986.14
+United States,North Carolina,Concord,28027,Gulf,35.4141,-80.6162,2868.66,373.72,1906.42,1094.65,849.64,Wicked Choccy's,373.72
+United States,Oregon,Salem,97301,Pacific,44.949,-123.004,1653.45,3866.53,2070.9,2640.17,2991.98,Lot's O' Nuts,1653.45
+United States,Mississippi,Southaven,38671,Gulf,34.9771,-89.9992,2017.85,886.32,1547.94,721.04,15.82,The Other Factory,15.82
+United States,Ohio,Cincinnati,45231,Atlantic,39.2418,-84.5437,2536.36,855.56,1357.28,565.98,664.22,Secret Factory,565.98
+United States,New York,New York City,10011,Atlantic,40.7402,-73.9996,3445.38,1152.55,1933.85,1388.33,1530.99,Wicked Choccy's,1152.55
+United States,Florida,Deltona,32725,Gulf,28.8989,-81.2473,2935.47,353.62,2491.21,1629.81,1073.75,Wicked Choccy's,353.62
+United States,New Jersey,Plainfield,7060,Atlantic,40.6152,-74.415,3409.78,1121.11,1911.95,1355.89,1493.34,Wicked Choccy's,1121.11
+United States,Colorado,Aurora,80013,Pacific,39.6575,-104.7846,978.89,2287.01,1164.87,1216.25,1400.61,Lot's O' Nuts,978.89
+United States,Florida,Palm Coast,32137,Gulf,29.5565,-81.219,2918.22,280.45,2427.44,1567.4,1028.07,Wicked Choccy's,280.45
+United States,California,El Cajon,92020,Pacific,32.7928,-116.9665,485.73,3351.77,2433.88,2518.19,2495.61,Lot's O' Nuts,485.73
+United States,New York,Buffalo,14215,Atlantic,42.9335,-78.8115,3075.74,1223.73,1466.67,981.54,1295.84,Secret Factory,981.54
+United States,New Jersey,Hackensack,7601,Atlantic,40.8882,-74.0503,3441.86,1163.54,1921.45,1381.72,1532.4,Wicked Choccy's,1163.54
+United States,New York,Niagara Falls,14304,Atlantic,43.0908,-78.9644,3066.69,1238.87,1447.33,971.1,1297.15,Secret Factory,971.1
+United States,Texas,League City,77573,Interior,29.5173,-95.0963,1627.29,1366.81,2070.51,1387.88,786.94,The Other Factory,786.94
+United States,South Dakota,Sioux Falls,57103,Interior,43.5374,-96.6864,1766.92,1865.48,510.96,552.93,1099.19,Sugar Shack,510.96
+United States,New York,New Rochelle,10801,Atlantic,40.9166,-73.7877,3464.05,1178.88,1938.48,1403.14,1554.27,Wicked Choccy's,1178.88
+United States,Connecticut,Bristol,6010,Atlantic,41.6823,-72.9302,3539.9,1289.9,1956.76,1464.88,1650.7,Wicked Choccy's,1289.9
+United States,California,Riverside,92503,Pacific,33.9208,-117.4589,540.68,3380.36,2368.48,2497.94,2513.91,Lot's O' Nuts,540.68
+United States,Nebraska,Omaha,68104,Interior,41.2919,-95.9999,1678.31,1674.64,759.29,453.74,864.87,Secret Factory,453.74
+United States,Georgia,Atlanta,30318,Gulf,33.7865,-84.4454,2532.87,366.48,1869.02,1007.33,527.75,Wicked Choccy's,366.48
+United States,Utah,Draper,84020,Pacific,40.5046,-111.881,847.67,2897.18,1504.55,1787.99,2009.65,Lot's O' Nuts,847.67
+United States,Florida,Apopka,32712,Gulf,28.712,-81.5136,2916.54,376.29,2498.2,1635.88,1069.01,Wicked Choccy's,376.29
+United States,North Carolina,Charlotte,28205,Gulf,35.22,-80.7881,2854.45,350.68,1914.23,1097.22,834.49,Wicked Choccy's,350.68
+United States,Missouri,Springfield,65807,Interior,37.1668,-93.3085,1743.87,1251.9,1240.06,531.09,376.43,The Other Factory,376.43
+United States,Maine,Bangor,4401,Atlantic,44.8242,-68.7918,3898.97,1772.16,2117.6,1800.47,2093.49,Wicked Choccy's,1772.16
+United States,Utah,Pleasant Grove,84062,Pacific,40.372,-111.7333,832.87,2882.54,1504.37,1778.41,1994.74,Lot's O' Nuts,832.87
+United States,Texas,Texas City,77590,Interior,29.397,-94.9203,1647.59,1354.07,2084.6,1396.2,787.89,The Other Factory,787.89
+United States,Michigan,Trenton,48183,Interior,42.1382,-83.2179,2704.34,1134.56,1212.65,613.78,975.79,Secret Factory,613.78
+United States,California,Vacaville,95687,Pacific,38.3482,-121.9538,1102.2,3746.36,2338.05,2684.86,2858.31,Lot's O' Nuts,1102.2
+Canada,Ontario,Toronto,M5H,Atlantic,43.6496,-79.3833,3045.78,1295.5,1388.42,947.39,1312.45,Secret Factory,947.39
+United States,Georgia,Woodstock,30188,Gulf,34.106,-84.5117,2523.68,390.66,1834.82,973.71,512.05,Wicked Choccy's,390.66
+United States,Florida,Hollywood,33021,Gulf,26.0218,-80.1891,3138.57,678.86,2824.44,1961.77,1376.84,Wicked Choccy's,678.86
+United States,Connecticut,Fairfield,6824,Atlantic,41.1692,-73.2681,3508.86,1227.35,1961.03,1442.72,1604.68,Wicked Choccy's,1227.35
+United States,Texas,Dallas,75081,Interior,32.9462,-96.7058,1404.83,1466.28,1687.73,1089.75,665.73,The Other Factory,665.73
+United States,Georgia,Columbus,31907,Gulf,32.4779,-84.898,2508.41,360.91,1980.22,1116.5,552.96,Wicked Choccy's,360.91
+Canada,Quebec,Montreal,H1B,Atlantic,45.632,-73.5075,3544.3,1642.19,1738.96,1448.24,1813.56,Secret Factory,1448.24
+United States,Virginia,Hampton,23666,Gulf,37.0462,-76.4096,3236.39,699.04,2023.74,1311.54,1236.31,Wicked Choccy's,699.04
+United States,Ohio,Lakewood,44107,Atlantic,41.4847,-81.8018,2804.78,1048.1,1349.91,729.93,1003.8,Secret Factory,729.93
+United States,Missouri,Saint Charles,63301,Interior,38.8014,-90.5065,2020.7,1133.39,1132.01,294.15,412.38,Secret Factory,294.15
+United States,Florida,North Miami,33161,Gulf,25.8934,-80.1758,3145.08,693.19,2837.91,1975.15,1388.6,Wicked Choccy's,693.19
+United States,Michigan,Grand Rapids,49505,Interior,43.012,-85.6309,2539.27,1279.72,997.11,441.93,954.1,Secret Factory,441.93
+United States,New York,Oceanside,11572,Atlantic,40.6362,-73.6375,3475.44,1161.37,1965.81,1420.29,1556.28,Wicked Choccy's,1161.37
+United States,Montana,Billings,59102,Pacific,45.7813,-108.5727,1460.11,2802.02,974.62,1523.79,1962.53,Sugar Shack,974.62
+United States,Kentucky,Owensboro,42301,Gulf,37.7513,-87.1554,2290.57,838.77,1364.96,504.06,386.25,The Other Factory,386.25
+United States,Florida,Miami,33178,Gulf,25.8141,-80.3549,3131.74,699.95,2838.28,1975.2,1383.93,Wicked Choccy's,699.95
+United States,New Mexico,Santa Fe,87505,Pacific,35.6219,-105.8688,621.77,2315.78,1601.6,1477.4,1441.0,Lot's O' Nuts,621.77
+United States,Arkansas,Fayetteville,72701,Gulf,36.052,-94.1534,1650.36,1280.81,1352.07,675.56,392.18,The Other Factory,392.18
+United States,Ohio,Bowling Green,43402,Atlantic,41.3815,-83.6507,2651.27,1059.46,1238.56,576.52,888.13,Secret Factory,576.52
+United States,Oklahoma,Tulsa,74133,Interior,36.0467,-95.8841,1496.23,1430.93,1342.62,756.78,544.53,The Other Factory,544.53
+United States,Illinois,Oswego,60543,Interior,41.6849,-88.3453,2281.9,1247.14,943.86,186.6,743.83,Secret Factory,186.6
+United States,California,Santa Clara,95051,Pacific,37.3483,-121.9844,1052.77,3754.3,2407.14,2722.55,2868.31,Lot's O' Nuts,1052.77
+United States,Washington,Pasco,99301,Pacific,46.2492,-119.1044,1612.17,3591.82,1738.26,2336.42,2729.43,Lot's O' Nuts,1612.17
+United States,Texas,Tyler,75701,Interior,32.3254,-95.2922,1543.01,1335.77,1757.77,1097.4,581.73,The Other Factory,581.73
+United States,Georgia,Macon,31204,Gulf,32.8424,-83.6766,2615.92,257.34,1995.25,1134.05,632.97,Wicked Choccy's,257.34
+United States,Massachusetts,Lowell,1852,Atlantic,42.6344,-71.2983,3680.39,1456.23,2026.65,1593.12,1814.18,Wicked Choccy's,1456.23
+United States,Ohio,Lancaster,43130,Atlantic,39.7187,-82.6031,2708.35,860.65,1429.89,699.02,827.24,Secret Factory,699.02
+United States,Michigan,Detroit,48227,Interior,42.3883,-83.1937,2712.64,1161.59,1197.45,618.67,998.76,Secret Factory,618.67
+United States,North Carolina,Greenville,27834,Gulf,35.6192,-77.3975,3157.69,520.85,2075.7,1313.85,1140.68,Wicked Choccy's,520.85
+United States,Oregon,Gresham,97030,Pacific,45.5154,-122.4203,1674.74,3829.63,2007.51,2592.04,2958.73,Lot's O' Nuts,1674.74
+United States,New Jersey,Clifton,7011,Atlantic,40.8789,-74.1425,3434.07,1158.27,1915.44,1374.19,1524.76,Wicked Choccy's,1158.27
+Canada,Quebec,Montreal,H1C,Atlantic,45.6656,-73.5367,3542.72,1644.56,1735.68,1446.85,1813.8,Secret Factory,1446.85
+United States,California,Oxnard,93030,Pacific,34.2141,-119.175,702.05,3533.38,2452.25,2624.22,2663.19,Lot's O' Nuts,702.05
+United States,Kansas,Olathe,66062,Interior,38.8733,-94.7752,1666.27,1449.25,1034.28,457.98,596.85,Secret Factory,457.98
+United States,North Carolina,Cary,27511,Gulf,35.7641,-78.7786,3032.13,462.11,1981.02,1201.79,1015.94,Wicked Choccy's,462.11
+United States,Ohio,Fairfield,45014,Atlantic,39.3266,-84.5479,2537.28,864.42,1349.79,561.36,670.29,Secret Factory,561.36
+United States,Texas,Odessa,79762,Interior,31.889,-102.3548,890.46,2002.62,1878.19,1492.25,1202.04,Lot's O' Nuts,890.46
+United States,Arizona,Tempe,85281,Pacific,33.4227,-111.9261,61.91,2877.3,2095.83,2078.86,2022.13,Lot's O' Nuts,61.91
+United States,Texas,Corpus Christi,78415,Interior,27.7262,-97.4078,1491.33,1643.78,2270.07,1647.76,1082.48,The Other Factory,1082.48
+United States,California,Chula Vista,91911,Pacific,32.6084,-117.0565,495.48,3363.2,2455.08,2535.79,2508.64,Lot's O' Nuts,495.48
+United States,California,Long Beach,90805,Pacific,33.8635,-118.1801,605.24,3447.21,2417.87,2559.97,2580.47,Lot's O' Nuts,605.24
+United States,Maryland,Columbia,21044,Atlantic,39.2141,-76.8788,3193.91,879.86,1833.57,1185.07,1244.85,Wicked Choccy's,879.86
+United States,Illinois,Bloomington,61701,Interior,40.4783,-88.9893,2191.82,1171.26,1023.41,170.59,602.29,Secret Factory,170.59
+Canada,Ontario,Toronto,M2N,Atlantic,43.7673,-79.4111,3046.37,1308.21,1380.56,947.82,1319.74,Secret Factory,947.82
+United States,Texas,Garland,75043,Interior,32.8565,-96.5999,1415.39,1456.5,1697.49,1093.97,660.67,The Other Factory,660.67
+United States,Florida,Boca Raton,33433,Gulf,26.3464,-80.1564,3128.5,643.5,2793.28,1930.99,1351.71,Wicked Choccy's,643.5
+United States,Texas,Houston,77041,Interior,29.8602,-95.5817,1571.3,1402.51,2030.95,1365.05,786.23,The Other Factory,786.23
+United States,Texas,Mesquite,75150,Interior,32.8154,-96.6307,1412.87,1459.45,1702.12,1099.35,665.18,The Other Factory,665.18
+United States,North Carolina,Fayetteville,28314,Gulf,35.0583,-79.008,3017.2,383.52,2027.91,1232.35,997.02,Wicked Choccy's,383.52
+United States,Tennessee,Clarksville,37042,Gulf,36.5853,-87.4186,2256.52,767.29,1468.58,604.93,282.05,The Other Factory,282.05
+United States,Florida,Boynton Beach,33437,Gulf,26.5312,-80.1418,3122.54,623.36,2775.42,1913.37,1337.35,Wicked Choccy's,623.36
+United States,Nevada,Reno,89502,Pacific,39.4972,-119.7764,1027.53,3557.11,2110.51,2468.64,2668.06,Lot's O' Nuts,1027.53
+United States,Illinois,Evanston,60201,Interior,42.0546,-87.6943,2345.8,1253.85,946.89,247.59,796.26,Secret Factory,247.59
+United States,North Carolina,Durham,27707,Gulf,35.9631,-78.9315,3017.07,475.69,1955.27,1177.81,1002.74,Wicked Choccy's,475.69
+Canada,Alberta,Calgary,T1Y,Pacific,51.0823,-113.9578,2031.64,3408.5,1319.19,2079.79,2613.17,Sugar Shack,1319.19
+Canada,Alberta,Edmonton,T5A,Pacific,53.5931,-113.4077,2306.65,3505.58,1349.03,2166.75,2748.06,Sugar Shack,1349.03
+United States,Indiana,Indianapolis,46203,Interior,39.743,-86.1179,2411.69,964.95,1229.51,420.51,616.53,Secret Factory,420.51
+United States,North Carolina,Jacksonville,28540,Gulf,34.7375,-77.4628,3160.89,448.08,2145.44,1365.6,1140.37,Wicked Choccy's,448.08
+United States,California,Manteca,95336,Pacific,37.8134,-121.2132,1016.29,3683.8,2321.75,2641.47,2796.79,Lot's O' Nuts,1016.29
+United States,California,Pasadena,91104,Pacific,34.1678,-118.1261,606.35,3438.2,2389.62,2540.17,2569.26,Lot's O' Nuts,606.35
+United States,Washington,Edmonds,98026,Pacific,47.8353,-122.327,1884.08,3867.51,1937.07,2590.96,3013.33,Lot's O' Nuts,1884.08
+United States,New York,Mount Vernon,10550,Atlantic,40.9079,-73.838,3459.78,1175.63,1935.41,1399.09,1549.96,Wicked Choccy's,1175.63
+United States,Massachusetts,Everett,2149,Atlantic,42.4112,-71.0514,3699.19,1450.32,2055.8,1614.33,1824.35,Wicked Choccy's,1450.32
+United States,New Hampshire,Concord,3301,Atlantic,43.2185,-71.5277,3666.32,1495.57,1981.99,1573.81,1821.57,Wicked Choccy's,1495.57
+United States,Ohio,Parma,44134,Atlantic,41.3853,-81.7044,2810.85,1036.57,1363.12,738.62,1002.49,Secret Factory,738.62
+United States,Texas,Beaumont,77705,Interior,30.0211,-94.1157,1702.27,1261.06,2020.1,1309.88,686.84,The Other Factory,686.84
+United States,Alabama,Montgomery,36116,Gulf,32.3129,-86.2421,2386.25,485.62,1945.83,1085.56,464.92,The Other Factory,464.92
+United States,Arkansas,Texarkana,71854,Gulf,33.431,-93.8765,1664.59,1204.55,1644.53,937.77,404.85,The Other Factory,404.85
+United States,California,Lakewood,90712,Pacific,33.8512,-118.1457,601.89,3444.23,2416.74,2557.78,2577.62,Lot's O' Nuts,601.89
+Canada,British Columbia,Vancouver,V6G,Pacific,49.299,-123.1408,2054.03,3960.81,1971.99,2665.85,3118.07,Sugar Shack,1971.99
+United States,Virginia,Newport News,23602,Gulf,37.1132,-76.5179,3226.48,698.87,2011.65,1299.63,1227.56,Wicked Choccy's,698.87
+United States,California,Rancho Cucamonga,91730,Pacific,34.107,-117.5941,557.07,3390.34,2361.45,2499.54,2522.33,Lot's O' Nuts,557.07
+United States,South Carolina,Rock Hill,29730,Gulf,34.9151,-81.0129,2836.41,315.75,1929.43,1105.35,815.84,Wicked Choccy's,315.75
+United States,Florida,Fort Lauderdale,33311,Gulf,26.1421,-80.1728,3135.18,665.8,2813.06,1950.53,1367.74,Wicked Choccy's,665.8
+United States,Kansas,Garden City,67846,Interior,37.9769,-100.8621,1137.87,1911.7,1189.59,960.72,1022.78,Secret Factory,960.72
+United States,Indiana,Columbus,47201,Interior,39.2055,-85.9317,2417.46,905.17,1286.91,465.07,578.44,Secret Factory,465.07
+United States,Rhode Island,Cranston,2920,Atlantic,41.7716,-71.4659,3661.75,1374.26,2058.35,1585.08,1768.47,Wicked Choccy's,1374.26
+United States,Ohio,Lorain,44052,Atlantic,41.4578,-82.171,2773.98,1047.61,1327.63,699.34,979.22,Secret Factory,699.34
+United States,Arizona,Avondale,85323,Pacific,33.4321,-112.3438,81.34,2915.77,2116.88,2111.39,2059.91,Lot's O' Nuts,81.34
+United States,Ohio,Mason,45040,Atlantic,39.3357,-84.3149,2557.27,858.01,1361.92,578.87,685.87,Secret Factory,578.87
+United States,New Jersey,Orange,7050,Atlantic,40.7692,-74.2355,3425.67,1143.79,1915.37,1368.2,1513.29,Wicked Choccy's,1143.79
+United States,Oregon,Portland,97206,Pacific,45.484,-122.5973,1680.25,3842.78,2021.71,2605.92,2971.56,Lot's O' Nuts,1680.25
+United States,Ohio,Medina,44256,Atlantic,41.1404,-81.8584,2793.58,1010.22,1370.12,727.92,974.89,Secret Factory,727.92
+United States,Texas,Irving,75061,Interior,32.8267,-96.9633,1381.78,1490.5,1701.7,1112.88,693.07,The Other Factory,693.07
+United States,Tennessee,Nashville,37211,Gulf,36.0725,-86.724,2316.31,683.06,1547.52,683.92,312.19,The Other Factory,312.19
+United States,Wisconsin,Wausau,54401,Interior,44.9654,-89.7066,2321.58,1615.22,606.45,397.44,1095.27,Secret Factory,397.44
+United States,California,Redding,96003,Pacific,40.6278,-122.353,1275.38,3778.97,2227.14,2652.62,2890.37,Lot's O' Nuts,1275.38
+United States,Pennsylvania,Reading,19601,Atlantic,40.3466,-75.9351,3279.9,1028.81,1822.17,1234.28,1362.31,Wicked Choccy's,1028.81
+United States,Wisconsin,Madison,53711,Interior,43.0356,-89.4526,2248.46,1422.58,769.98,199.05,881.58,Secret Factory,199.05
+United States,Texas,Carrollton,75007,Interior,33.0033,-96.882,1388.02,1482.67,1681.83,1092.02,678.45,The Other Factory,678.45
+United States,Texas,Pasadena,77506,Interior,29.7009,-95.1989,1611.78,1371.06,2049.73,1371.03,776.64,The Other Factory,776.64
+United States,Tennessee,Johnson City,37604,Gulf,36.3107,-82.381,2706.22,485.62,1731.18,909.24,697.79,Wicked Choccy's,485.62
+United States,Kansas,Manhattan,66502,Interior,39.1938,-96.5858,1532.14,1605.44,992.98,568.36,740.64,Secret Factory,568.36
+United States,Minnesota,Moorhead,56560,Interior,46.8677,-96.7572,2007.54,2116.33,145.73,778.83,1423.94,Sugar Shack,145.73
+United States,Texas,Cedar Hill,75104,Interior,32.5885,-96.9438,1385.83,1489.41,1728.11,1135.32,702.39,The Other Factory,702.39
+United States,Illinois,Des Plaines,60016,Interior,42.0467,-87.8859,2330.49,1261.07,937.09,232.1,791.45,Secret Factory,232.1
+United States,Wisconsin,Franklin,53132,Interior,42.9017,-88.0086,2352.3,1348.54,860.6,265.66,881.94,Secret Factory,265.66
+United States,Utah,Provo,84604,Pacific,40.2607,-111.6549,820.55,2874.07,1507.31,1774.24,1986.06,Lot's O' Nuts,820.55
+United States,Delaware,Wilmington,19805,Atlantic,39.7434,-75.5827,3306.95,985.75,1885.68,1277.48,1368.63,Wicked Choccy's,985.75
+United States,Utah,Salt Lake City,84106,Pacific,40.7056,-111.8548,869.99,2898.59,1488.72,1781.94,2011.6,Lot's O' Nuts,869.99
+United States,Minnesota,Coon Rapids,55433,Interior,45.1643,-93.3193,2089.85,1797.51,394.51,469.58,1152.55,Sugar Shack,394.51
+United States,Louisiana,Monroe,71203,Gulf,32.553,-92.0422,1843.09,1030.28,1765.38,997.5,343.36,The Other Factory,343.36
+United States,Illinois,Bolingbrook,60440,Interior,41.6976,-88.0873,2302.75,1236.69,956.09,208.03,749.8,Secret Factory,208.03
+United States,California,Sacramento,95823,Pacific,38.4797,-121.4438,1071.93,3701.51,2293.51,2638.09,2813.29,Lot's O' Nuts,1071.93
+United States,Missouri,Saint Louis,63116,Interior,38.5814,-90.2625,2036.33,1101.6,1162.65,319.61,386.04,Secret Factory,319.61
+Canada,Newfoundland and Labrador,St. John's,A0A,Atlantic,47.2195,-53.1448,5107.95,2900.03,3181.66,3014.24,3324.47,Wicked Choccy's,2900.03
+United States,Rhode Island,Woonsocket,2895,Atlantic,41.9846,-71.5194,3658.35,1389.22,2043.26,1578.75,1772.02,Wicked Choccy's,1389.22
+United States,California,Brentwood,94513,Pacific,37.9324,-121.6894,1059.2,3725.02,2346.98,2676.98,2837.72,Lot's O' Nuts,1059.2
+United States,New York,Utica,13501,Atlantic,43.0871,-75.2315,3366.0,1327.8,1716.69,1273.06,1546.49,Secret Factory,1273.06
+United States,Oregon,Tigard,97224,Pacific,45.4094,-122.8014,1683.4,3857.4,2039.41,2622.09,2985.59,Lot's O' Nuts,1683.4
+United States,New York,Freeport,11520,Atlantic,40.6536,-73.5866,3479.8,1165.51,1968.39,1424.22,1560.97,Wicked Choccy's,1165.51
+United States,Illinois,Skokie,60076,Interior,42.0362,-87.7328,2342.15,1253.67,946.31,243.99,793.46,Secret Factory,243.99
+United States,Florida,Orlando,32839,Gulf,28.4871,-81.4082,2933.7,400.27,2525.19,1662.81,1093.83,Wicked Choccy's,400.27
+United States,Maryland,Clinton,20735,Atlantic,38.7549,-76.9026,3190.64,833.65,1864.51,1198.58,1228.56,Wicked Choccy's,833.65
+United States,Georgia,Sandy Springs,30328,Gulf,33.9335,-84.3958,2535.94,371.15,1856.77,995.65,527.37,Wicked Choccy's,371.15
+Canada,New Brunswick,Moncton,E1A,Atlantic,46.0967,-64.7087,4226.65,2096.15,2375.73,2129.24,2441.77,Wicked Choccy's,2096.15
+United States,Oklahoma,Oklahoma City,73120,Interior,35.5835,-97.5638,1338.61,1568.87,1398.53,891.41,690.38,The Other Factory,690.38
+Canada,British Columbia,Vancouver,V6B,Pacific,49.2788,-123.1139,2051.1,3958.4,1970.31,2663.66,3115.53,Sugar Shack,1970.31
+United States,Arizona,Gilbert,85234,Pacific,33.3527,-111.7809,52.37,2864.65,2094.76,2071.49,2010.49,Lot's O' Nuts,52.37
+United States,Washington,Olympia,98502,Pacific,47.1043,-123.0552,1846.49,3905.94,2007.43,2641.47,3045.2,Lot's O' Nuts,1846.49
+United States,Arizona,Mesa,85204,Pacific,33.3992,-111.7896,57.56,2864.95,2090.92,2069.45,2010.24,Lot's O' Nuts,57.56
+United States,Idaho,Caldwell,83605,Pacific,43.6627,-116.7,1273.11,3349.09,1657.76,2145.83,2471.93,Lot's O' Nuts,1273.11
+United States,Ohio,Marion,43302,Atlantic,40.5876,-83.1271,2678.22,963.8,1330.54,631.12,854.46,Secret Factory,631.12
+United States,Alabama,Florence,35630,Gulf,34.8305,-87.656,2231.65,681.73,1637.02,778.28,213.33,The Other Factory,213.33
+United States,Tennessee,Columbia,38401,Gulf,35.6156,-87.038,2287.15,675.64,1580.48,717.12,271.66,The Other Factory,271.66
+United States,Texas,Grand Prairie,75051,Interior,32.7115,-97.0069,1378.73,1494.88,1714.65,1126.08,701.99,The Other Factory,701.99
+United States,Colorado,Thornton,80229,Pacific,39.8671,-104.9227,988.69,2304.24,1152.08,1222.32,1418.65,Lot's O' Nuts,988.69
+Canada,British Columbia,Vancouver,V5K,Pacific,49.2807,-123.0397,2048.47,3953.2,1964.94,2658.33,3110.47,Sugar Shack,1964.94
+United States,Texas,Port Arthur,77642,Interior,29.9212,-93.927,1722.75,1246.12,2032.63,1316.7,686.44,The Other Factory,686.44
+United States,Colorado,Colorado Springs,80906,Pacific,38.7902,-104.8199,907.12,2268.15,1248.15,1245.96,1379.33,Lot's O' Nuts,907.12
+United States,Massachusetts,Beverly,1915,Atlantic,42.5608,-70.8759,3714.44,1472.31,2061.3,1627.97,1843.61,Wicked Choccy's,1472.31
+United States,California,Anaheim,92804,Pacific,33.8186,-117.9729,585.57,3428.85,2408.68,2545.29,2562.66,Lot's O' Nuts,585.57
+United States,Illinois,Saint Charles,60174,Interior,41.9194,-88.307,2293.0,1267.28,925.47,194.78,770.02,Secret Factory,194.78
+United States,Ohio,Kent,44240,Atlantic,41.1449,-81.3498,2835.7,1008.66,1402.95,770.27,1007.92,Secret Factory,770.27
+United States,Minnesota,Cottage Grove,55016,Interior,44.8308,-92.9393,2094.16,1749.9,441.86,422.71,1109.07,Secret Factory,422.71
+Canada,Quebec,Quebec City,G1B,Atlantic,46.9263,-71.2258,3741.92,1851.96,1870.33,1652.66,2039.35,Secret Factory,1652.66
+United States,Michigan,Taylor,48180,Interior,42.2317,-83.2673,2702.73,1145.52,1203.09,610.68,981.34,Secret Factory,610.68
+Canada,Prince Edward Island,Charlottetown,C0A,Atlantic,46.1668,-62.6487,4385.57,2222.23,2525.2,2288.14,2593.79,Wicked Choccy's,2222.23
+United States,Rhode Island,Providence,2908,Atlantic,41.8383,-71.4377,3664.39,1381.37,2056.89,1586.77,1773.07,Wicked Choccy's,1381.37
+United States,Texas,Baytown,77520,Interior,29.7461,-94.9653,1631.93,1347.97,2045.62,1359.95,758.97,The Other Factory,758.97
+United States,Minnesota,Woodbury,55125,Interior,44.9197,-92.9439,2099.25,1757.72,433.41,431.64,1118.75,Secret Factory,431.64
+United States,Illinois,Park Ridge,60068,Interior,42.0122,-87.8417,2332.77,1255.91,942.38,234.61,788.62,Secret Factory,234.61
+United States,Tennessee,Bartlett,38134,Gulf,35.1845,-89.8574,2031.03,881.94,1529.89,699.01,12.74,The Other Factory,12.74
+United States,Montana,Bozeman,59715,Pacific,45.6693,-111.0431,1423.25,2975.67,1159.66,1710.24,2125.43,Sugar Shack,1159.66
+United States,Florida,West Palm Beach,33407,Gulf,26.7492,-80.0725,3120.5,600.44,2756.67,1895.06,1324.14,Wicked Choccy's,600.44
+United States,New York,Rome,13440,Atlantic,43.2193,-75.4498,3350.37,1333.97,1694.32,1256.27,1538.69,Secret Factory,1256.27
+United States,Virginia,Suffolk,23434,Gulf,36.7304,-76.5931,3221.72,661.57,2036.48,1312.97,1216.87,Wicked Choccy's,661.57
+United States,Wisconsin,Kenosha,53142,Interior,42.556,-87.8705,2349.86,1309.48,896.04,254.57,846.82,Secret Factory,254.57
+United States,New Jersey,Perth Amboy,8861,Atlantic,40.5176,-74.2754,3421.11,1118.89,1927.76,1369.3,1500.99,Wicked Choccy's,1118.89
+United States,Arkansas,Hot Springs,71901,Gulf,34.5268,-92.9587,1746.98,1135.57,1534.8,797.4,280.5,The Other Factory,280.5
+United States,New Mexico,Las Cruces,88001,Pacific,32.2901,-106.7539,474.32,2409.68,1971.56,1758.85,1581.96,Lot's O' Nuts,474.32
+United States,Michigan,Sterling Heights,48310,Interior,42.5648,-83.0701,2727.1,1179.27,1194.07,631.46,1020.45,Secret Factory,631.46
+United States,Massachusetts,Leominster,1453,Atlantic,42.5274,-71.7563,3642.22,1423.42,1998.31,1556.03,1774.93,Wicked Choccy's,1423.42
+United States,Pennsylvania,Altoona,16602,Atlantic,40.5052,-78.3905,3073.92,967.81,1643.53,1026.58,1179.15,Wicked Choccy's,967.81
+United States,Texas,Coppell,75019,Interior,32.9673,-96.9805,1379.1,1491.89,1686.14,1099.98,688.47,The Other Factory,688.47
+United States,Pennsylvania,Bethlehem,18018,Atlantic,40.6278,-75.3928,3327.43,1078.44,1842.33,1274.18,1416.31,Wicked Choccy's,1078.44
+United States,Indiana,New Castle,47362,Interior,39.9208,-85.3663,2478.36,953.08,1254.16,469.98,670.74,Secret Factory,469.98
+United States,Florida,Plantation,33317,Gulf,26.1122,-80.2264,3131.42,668.42,2813.76,1951.11,1366.77,Wicked Choccy's,668.42
+United States,California,Chico,95928,Pacific,39.7224,-121.8113,1176.99,3731.71,2241.25,2631.23,2842.64,Lot's O' Nuts,1176.99
+United States,Utah,Lehi,84043,Pacific,40.3958,-111.8506,835.54,2892.76,1510.29,1787.68,2004.98,Lot's O' Nuts,835.54
+United States,Alabama,Auburn,36830,Gulf,32.5475,-85.4682,2454.39,414.89,1950.77,1087.6,504.54,Wicked Choccy's,414.89
+United States,California,San Bernardino,92404,Pacific,34.1426,-117.2606,528.08,3359.39,2337.92,2470.4,2491.42,Lot's O' Nuts,528.08
+United States,California,Lancaster,93534,Pacific,34.6909,-118.1491,622.93,3433.99,2348.81,2516.44,2561.42,Lot's O' Nuts,622.93
+United States,Alabama,Huntsville,35810,Gulf,34.7784,-86.6091,2327.36,593.8,1681.29,818.01,308.72,The Other Factory,308.72
+United States,California,Thousand Oaks,91360,Pacific,34.2092,-118.8739,674.71,3505.96,2433.46,2599.64,2636.07,Lot's O' Nuts,674.71
+United States,South Carolina,Florence,29501,Gulf,34.1838,-79.7728,2956.99,264.44,2062.06,1243.62,938.21,Wicked Choccy's,264.44
+United States,Washington,Covington,98042,Pacific,47.368,-122.1206,1831.82,3842.0,1932.17,2572.24,2984.34,Lot's O' Nuts,1831.82
+United States,Florida,Coral Springs,33065,Gulf,26.2729,-80.2603,3121.77,650.28,2796.17,1933.62,1351.03,Wicked Choccy's,650.28
+United States,Florida,Miami,33142,Gulf,25.813,-80.232,3143.19,701.39,2843.6,1980.69,1391.85,Wicked Choccy's,701.39
+United States,Illinois,Normal,61761,Interior,40.5124,-88.9883,2192.91,1174.13,1020.22,168.26,606.05,Secret Factory,168.26
+United States,Michigan,Lansing,48911,Interior,42.6797,-84.5772,2611.04,1218.38,1087.53,512.89,961.23,Secret Factory,512.89
+United States,Washington,Spokane,99207,Pacific,47.6977,-117.3746,1713.51,3504.79,1575.37,2221.38,2658.16,Sugar Shack,1575.37
+United States,Connecticut,Norwich,6360,Atlantic,41.5371,-72.0849,3609.31,1320.93,2025.93,1536.35,1711.39,Wicked Choccy's,1320.93
+United States,Nebraska,Norfolk,68701,Interior,42.0329,-97.4229,1620.54,1818.61,683.72,572.54,1004.6,Secret Factory,572.54
+United States,New Mexico,Farmington,87401,Pacific,36.7412,-108.1797,539.78,2529.92,1599.24,1604.15,1646.88,Lot's O' Nuts,539.78
+United States,Texas,Mcallen,78501,Interior,26.2154,-98.2359,1502.41,1785.58,2442.15,1833.87,1265.63,The Other Factory,1265.63
+United States,Indiana,New Albany,47150,Interior,38.3089,-85.8221,2413.52,815.39,1373.86,534.21,512.44,The Other Factory,512.44
+United States,California,Santa Maria,93454,Pacific,34.9545,-120.4325,831.73,3638.16,2475.87,2692.92,2762.47,Lot's O' Nuts,831.73
+United States,Florida,Daytona Beach,32114,Gulf,29.2012,-81.0371,2945.76,319.72,2470.62,1610.43,1066.9,Wicked Choccy's,319.72
+United States,District of Columbia,Washington,20016,Atlantic,38.9381,-77.086,3175.18,844.41,1839.25,1177.08,1218.82,Wicked Choccy's,844.41
+United States,Ohio,Troy,45373,Atlantic,40.0374,-84.2032,2578.23,928.3,1309.83,558.28,746.41,Secret Factory,558.28
+United States,Illinois,Tinley Park,60477,Interior,41.5825,-87.805,2321.39,1213.42,980.83,230.33,743.2,Secret Factory,230.33
+United States,Texas,Allen,75002,Interior,33.0934,-96.6454,1409.45,1460.61,1671.24,1072.67,654.25,The Other Factory,654.25
+United States,Ohio,Cuyahoga Falls,44221,Atlantic,41.1401,-81.479,2824.93,1008.46,1394.83,759.55,999.19,Secret Factory,759.55
+United States,California,Camarillo,93010,Pacific,34.2313,-119.0464,690.76,3521.41,2442.67,2612.77,2651.21,Lot's O' Nuts,690.76
+United States,North Carolina,Wilson,27893,Gulf,35.727,-77.9227,3109.48,500.08,2035.06,1267.73,1093.16,Wicked Choccy's,500.08
+United States,Illinois,Frankfort,60423,Interior,41.5094,-87.8248,2317.46,1207.37,986.09,228.42,734.93,Secret Factory,228.42
+United States,Kansas,Wichita,67212,Interior,37.7007,-97.4383,1404.68,1614.21,1162.95,721.06,727.07,Secret Factory,721.06
+United States,Texas,Haltom City,76117,Interior,32.8087,-97.2709,1353.27,1519.28,1704.89,1128.68,720.28,The Other Factory,720.28
+United States,Connecticut,Manchester,6040,Atlantic,41.7777,-72.5244,3574.1,1318.75,1981.01,1497.56,1685.95,Wicked Choccy's,1318.75
+United States,New Jersey,Paterson,7501,Atlantic,40.9143,-74.1671,3432.19,1160.35,1911.59,1371.6,1524.15,Wicked Choccy's,1160.35
+United States,Idaho,Pocatello,83201,Pacific,42.8876,-112.4381,1114.13,2993.76,1390.5,1804.67,2116.39,Lot's O' Nuts,1114.13
+United States,Maine,Lewiston,4240,Atlantic,44.0985,-70.1916,3781.48,1638.91,2042.33,1684.41,1959.29,Wicked Choccy's,1638.91
+United States,Arizona,Peoria,85345,Pacific,33.5761,-112.2344,88.55,2904.12,2097.94,2094.43,2046.83,Lot's O' Nuts,88.55
+United States,Utah,Layton,84041,Pacific,41.0879,-111.9704,912.64,2915.4,1470.12,1784.88,2029.56,Lot's O' Nuts,912.64
+United States,Georgia,East Point,30344,Gulf,33.6919,-84.448,2533.63,361.49,1878.2,1016.29,530.84,Wicked Choccy's,361.49
+United States,Georgia,Smyrna,30080,Gulf,33.8796,-84.5023,2526.68,376.29,1857.41,995.75,519.64,Wicked Choccy's,376.29
+United States,Illinois,Carol Stream,60188,Interior,41.9178,-88.137,2306.31,1259.62,934.55,208.37,772.76,Secret Factory,208.37
+United States,Massachusetts,Holyoke,1040,Atlantic,42.202,-72.6262,3568.54,1351.31,1951.22,1486.11,1695.13,Wicked Choccy's,1351.31
+United States,New Jersey,Vineland,8360,Atlantic,39.4818,-75.0091,3355.35,988.78,1942.48,1332.17,1407.48,Wicked Choccy's,988.78
+United States,Texas,Amarillo,79109,Interior,35.1663,-101.8868,944.93,1952.46,1515.22,1208.08,1082.83,Lot's O' Nuts,944.93
+United States,California,Bakersfield,93309,Pacific,35.3384,-119.0627,724.76,3509.96,2356.5,2561.83,2632.93,Lot's O' Nuts,724.76
+United States,Florida,Port Saint Lucie,34952,Gulf,27.2889,-80.298,3079.13,537.76,2692.98,1831.57,1265.25,Wicked Choccy's,537.76
+United States,Illinois,Highland Park,60035,Interior,42.1794,-87.8059,2341.37,1270.47,930.41,242.78,807.36,Secret Factory,242.78
+United States,Indiana,South Bend,46614,Interior,41.6255,-86.2433,2447.54,1156.08,1063.61,360.27,793.06,Secret Factory,360.27
+United States,Mississippi,Hattiesburg,39401,Gulf,31.3146,-89.3065,2118.99,781.92,1956.92,1132.18,427.36,The Other Factory,427.36
+United States,Missouri,Kirkwood,63122,Interior,38.5781,-90.4256,2022.37,1112.55,1157.67,319.16,386.92,Secret Factory,319.16
+United States,Idaho,Boise,83704,Pacific,43.633,-116.2951,1258.59,3316.46,1629.55,2113.42,2439.49,Lot's O' Nuts,1258.59
+United States,Oregon,Redmond,97756,Pacific,44.2767,-121.1896,1506.35,3714.6,1962.31,2501.07,2837.53,Lot's O' Nuts,1506.35
+United States,Minnesota,Eagan,55122,Interior,44.786,-93.2202,2072.88,1760.44,434.45,429.28,1109.93,Secret Factory,429.28
+United States,California,Yucaipa,92399,Pacific,34.0282,-117.0489,506.16,3341.43,2334.41,2458.88,2474.54,Lot's O' Nuts,506.16
+United States,Massachusetts,New Bedford,2740,Atlantic,41.6347,-70.9372,3705.09,1392.67,2104.19,1630.22,1805.49,Wicked Choccy's,1392.67
+United States,Kentucky,Florence,41042,Gulf,38.9941,-84.642,2524.38,833.54,1373.31,571.91,639.65,Secret Factory,571.91
+United States,Pennsylvania,Allentown,18103,Atlantic,40.5891,-75.4645,3321.14,1071.69,1839.71,1268.89,1409.11,Wicked Choccy's,1071.69
+United States,California,Murrieta,92563,Pacific,33.569,-117.1783,508.95,3359.41,2380.68,2493.31,2496.09,Lot's O' Nuts,508.95
+United States,Texas,Bedford,76021,Interior,32.8536,-97.1358,1365.49,1506.56,1699.33,1118.1,706.71,The Other Factory,706.71
+United States,Michigan,Holland,49423,Interior,42.7692,-86.1164,2493.4,1268.57,983.76,395.34,913.53,Secret Factory,395.34
+United States,Virginia,Charlottesville,22901,Gulf,38.0936,-78.5611,3045.06,707.43,1806.2,1090.46,1070.04,Wicked Choccy's,707.43
+United States,Minnesota,Rochester,55901,Interior,44.0496,-92.4896,2079.19,1660.52,534.48,329.34,1016.24,Secret Factory,329.34
+United States,Florida,Tamarac,33319,Gulf,26.1848,-80.2406,3127.15,660.24,2805.86,1943.25,1359.73,Wicked Choccy's,660.24
+United States,California,La Quinta,92253,Pacific,33.6685,-116.3081,430.99,3278.09,2319.88,2417.16,2414.92,Lot's O' Nuts,430.99
+United States,California,Redlands,92374,Pacific,34.065,-117.1672,517.7,3351.8,2338.6,2466.69,2484.51,Lot's O' Nuts,517.7
+United States,New York,Auburn,13021,Atlantic,42.93,-76.5626,3256.4,1270.68,1628.06,1164.03,1444.89,Secret Factory,1164.03
+United States,South Carolina,North Charleston,29406,Gulf,32.9352,-80.0325,2951.18,137.58,2161.78,1327.0,947.03,Wicked Choccy's,137.58
+United States,Michigan,Lincoln Park,48146,Interior,42.2422,-83.1807,2709.94,1145.41,1208.05,617.89,986.71,Secret Factory,617.89
+United States,Massachusetts,Quincy,2169,Atlantic,42.2491,-70.9978,3702.7,1439.65,2067.87,1619.71,1822.39,Wicked Choccy's,1439.65
+United States,California,Oceanside,92054,Pacific,33.2072,-117.3573,522.16,3381.23,2422.0,2527.19,2520.76,Lot's O' Nuts,522.16
+United States,Tennessee,Franklin,37064,Gulf,35.9328,-86.8788,2302.03,684.45,1555.1,691.38,294.15,The Other Factory,294.15
+United States,Iowa,Dubuque,52001,Interior,42.515,-90.6819,2133.5,1435.76,756.66,119.22,824.86,Secret Factory,119.22
+United States,Oklahoma,Broken Arrow,74012,Interior,36.0447,-95.8079,1502.96,1424.22,1342.97,752.97,537.73,The Other Factory,537.73
+United States,Illinois,Rockford,61107,Interior,42.2786,-89.0361,2249.38,1333.77,856.67,156.86,800.39,Secret Factory,156.86
+United States,Tennessee,Murfreesboro,37130,Gulf,35.8456,-86.3903,2345.87,643.84,1583.72,720.41,334.16,The Other Factory,334.16
+United States,New Jersey,Bayonne,7002,Atlantic,40.6664,-74.1192,3434.96,1140.02,1929.79,1379.63,1518.79,Wicked Choccy's,1140.02
+United States,Massachusetts,Cambridge,2138,Atlantic,42.377,-71.1256,3692.9,1443.46,2052.06,1608.43,1817.32,Wicked Choccy's,1443.46
+United States,Illinois,Quincy,62301,Interior,39.9307,-91.3763,1980.18,1270.82,987.73,181.87,549.34,Secret Factory,181.87
+United States,Oregon,Hillsboro,97123,Pacific,45.4984,-122.957,1698.67,3870.77,2047.91,2633.9,2999.38,Lot's O' Nuts,1698.67
+United States,Maryland,Rockville,20852,Atlantic,39.0496,-77.1204,3172.54,854.2,1829.03,1170.47,1219.54,Wicked Choccy's,854.2
+United States,Georgia,Warner Robins,31088,Gulf,32.5934,-83.6416,2623.07,246.67,2021.26,1159.62,648.19,Wicked Choccy's,246.67
+United States,Michigan,Ann Arbor,48104,Interior,42.2694,-83.7282,2666.82,1157.14,1170.5,573.44,961.64,Secret Factory,573.44
+United States,California,Santa Barbara,93101,Pacific,34.4197,-119.7078,754.33,3579.19,2470.16,2658.16,2707.21,Lot's O' Nuts,754.33
+United States,Indiana,Noblesville,46060,Interior,40.0563,-86.0163,2426.68,991.32,1207.44,413.13,650.23,Secret Factory,413.13
+United States,Michigan,Mount Pleasant,48858,Interior,43.6013,-84.7736,2625.3,1321.38,1014.74,531.53,1043.28,Secret Factory,531.53
+United States,Illinois,Orland Park,60462,Interior,41.6194,-87.8423,2319.61,1218.54,975.69,227.48,746.35,Secret Factory,227.48
+United States,Nevada,Sparks,89431,Pacific,39.5473,-119.7556,1030.06,3555.44,2105.87,2465.52,2666.38,Lot's O' Nuts,1030.06
+United States,California,Salinas,93905,Pacific,36.6811,-121.6176,993.11,3726.81,2428.25,2717.54,2842.9,Lot's O' Nuts,993.11
+United States,Arkansas,Conway,72032,Gulf,35.0842,-92.4236,1797.45,1101.29,1482.23,725.74,223.14,The Other Factory,223.14
+United States,North Carolina,Monroe,28110,Gulf,35.0178,-80.5372,2878.78,331.06,1945.9,1129.22,858.33,Wicked Choccy's,331.06
+United States,Vermont,Burlington,5401,Atlantic,44.484,-73.2199,3546.72,1539.37,1802.32,1448.22,1764.23,Secret Factory,1448.22
+United States,Indiana,Lawrence,46226,Interior,39.8326,-86.0836,2416.38,972.21,1223.42,418.51,626.4,Secret Factory,418.51
+United States,Minnesota,Roseville,55113,Interior,45.0139,-93.1571,2091.02,1776.52,415.46,448.77,1133.08,Sugar Shack,415.46
+United States,Montana,Helena,59601,Pacific,46.6131,-112.0213,1526.99,3082.76,1202.48,1802.26,2239.7,Sugar Shack,1202.48
+United States,Tennessee,Lebanon,37087,Gulf,36.2098,-86.3024,2354.56,664.25,1551.63,689.28,352.96,The Other Factory,352.96
+United States,New Mexico,Rio Rancho,87124,Pacific,35.2493,-106.6818,537.29,2388.02,1672.29,1561.89,1516.96,Lot's O' Nuts,537.29
+United States,Texas,Frisco,75034,Interior,33.1499,-96.8241,1392.5,1477.28,1665.37,1075.15,667.43,The Other Factory,667.43
+United States,New Jersey,Morristown,7960,Atlantic,40.7952,-74.4873,3404.64,1134.35,1895.96,1346.81,1494.31,Wicked Choccy's,1134.35
+United States,Tennessee,Jackson,38301,Gulf,35.6102,-88.814,2126.62,814.18,1517.1,666.55,118.37,The Other Factory,118.37
+United States,California,Lake Elsinore,92530,Pacific,33.6598,-117.3485,525.9,3373.77,2383.43,2502.43,2509.51,Lot's O' Nuts,525.9
+United States,Florida,Pembroke Pines,33024,Gulf,26.0296,-80.2489,3132.69,677.27,2821.09,1958.33,1372.31,Wicked Choccy's,677.27
+United States,Illinois,Champaign,61821,Interior,40.1073,-88.2788,2239.83,1101.34,1090.36,243.38,574.48,Secret Factory,243.38
+United States,Michigan,Dearborn,48126,Interior,42.3349,-83.1801,2712.35,1155.55,1201.89,619.06,994.79,Secret Factory,619.06
+United States,California,Santa Ana,92704,Pacific,33.7249,-117.909,578.26,3424.3,2412.46,2544.88,2558.91,Lot's O' Nuts,578.26
+United States,Florida,Tallahassee,32303,Gulf,30.4874,-84.3189,2603.56,354.17,2204.35,1341.03,737.38,Wicked Choccy's,354.17
+United States,California,Temecula,92592,Pacific,33.4983,-117.0958,500.43,3352.83,2381.62,2490.32,2490.2,Lot's O' Nuts,500.43
+United States,California,Costa Mesa,92627,Pacific,33.6483,-117.9155,577.79,3425.99,2419.2,2549.38,2561.19,Lot's O' Nuts,577.79
+United States,Illinois,Glenview,60025,Interior,42.0758,-87.8223,2336.48,1261.2,938.12,238.04,795.86,Secret Factory,238.04
+United States,Arizona,Bullhead City,86442,Pacific,35.106,-114.5947,359.23,3107.19,2096.24,2204.3,2234.02,Lot's O' Nuts,359.23
+United States,New York,Lindenhurst,11757,Atlantic,40.6884,-73.3745,3497.81,1179.54,1981.43,1441.28,1579.18,Wicked Choccy's,1179.54
+United States,Wisconsin,Superior,54880,Interior,46.7016,-92.0912,2265.82,1876.97,345.72,596.9,1300.22,Sugar Shack,345.72
+United States,Ohio,Dublin,43017,Atlantic,40.1093,-83.1146,2670.99,911.53,1368.33,644.53,819.78,Secret Factory,644.53
+United States,California,Visalia,93277,Pacific,36.3114,-119.3065,788.02,3523.57,2298.66,2540.01,2641.69,Lot's O' Nuts,788.02
+United States,Montana,Missoula,59801,Pacific,46.8563,-114.0252,1565.59,3235.68,1345.07,1957.35,2389.06,Sugar Shack,1345.07
+United States,Maryland,Gaithersburg,20877,Atlantic,39.1419,-77.189,3166.93,860.89,1817.93,1161.78,1216.94,Wicked Choccy's,860.89
+United States,Washington,Longview,98632,Pacific,46.1514,-122.9634,1756.59,3881.74,2027.28,2633.08,3014.44,Lot's O' Nuts,1756.59
+United States,New Jersey,Westfield,7090,Atlantic,40.6479,-74.3451,3415.83,1127.44,1914.91,1361.13,1500.11,Wicked Choccy's,1127.44
+United States,Mississippi,Gulfport,39503,Gulf,30.4601,-89.0886,2158.89,781.1,2054.06,1228.77,524.4,The Other Factory,524.4
+United States,New Jersey,Atlantic City,8401,Atlantic,39.3664,-74.4317,3404.79,1008.4,1989.99,1383.39,1452.15,Wicked Choccy's,1008.4
+United States,Arizona,Sierra Vista,85635,Pacific,31.5365,-110.2666,205.75,2749.47,2193.73,2069.93,1923.59,Lot's O' Nuts,205.75
+United States,Tennessee,Chattanooga,37421,Gulf,35.025,-85.1459,2459.74,498.81,1717.31,856.24,439.2,The Other Factory,439.2
+United States,New Jersey,Belleville,7109,Atlantic,40.7946,-74.1631,3431.89,1149.57,1918.99,1373.82,1519.98,Wicked Choccy's,1149.57
+United States,Wisconsin,La Crosse,54601,Interior,43.7989,-91.2175,2155.13,1574.69,614.53,266.98,971.21,Secret Factory,266.98
+United States,Texas,Round Rock,78664,Interior,30.5145,-97.668,1358.58,1583.29,1961.62,1372.1,882.31,The Other Factory,882.31
+United States,Massachusetts,Andover,1810,Atlantic,42.6496,-71.1565,3692.07,1464.93,2036.33,1604.66,1825.61,Wicked Choccy's,1464.93
+United States,Connecticut,Milford,6460,Atlantic,41.2175,-73.0549,3526.92,1242.45,1973.61,1459.79,1623.3,Wicked Choccy's,1242.45
+United States,Texas,Harlingen,78550,Interior,26.1951,-97.689,1549.7,1737.39,2441.38,1817.36,1235.66,The Other Factory,1235.66
+United States,California,Redwood City,94061,Pacific,37.4647,-122.2304,1077.93,3775.21,2416.36,2738.76,2888.89,Lot's O' Nuts,1077.93
+United States,Texas,Bryan,77803,Interior,30.6913,-96.3714,1474.1,1457.68,1937.95,1303.97,773.78,The Other Factory,773.78
+United States,Massachusetts,Malden,2148,Atlantic,42.4291,-71.0605,3698.55,1451.34,2054.24,1613.49,1824.34,Wicked Choccy's,1451.34
+United States,Colorado,Littleton,80122,Pacific,39.5814,-104.9557,962.83,2299.17,1180.01,1232.53,1412.33,Lot's O' Nuts,962.83
+United States,Missouri,Saint Peters,63376,Interior,38.7802,-90.6228,2010.35,1139.85,1130.47,296.5,411.37,Secret Factory,296.5
+United States,Oklahoma,Norman,73071,Interior,35.233,-97.4067,1347.3,1548.67,1436.43,912.23,675.79,The Other Factory,675.79
+United States,Texas,Grapevine,76051,Interior,32.9328,-97.0808,1370.01,1501.29,1690.32,1107.91,698.58,The Other Factory,698.58
+United States,North Carolina,Gastonia,28052,Gulf,35.2449,-81.2194,2815.18,352.55,1888.72,1066.48,795.25,Wicked Choccy's,352.55
+Canada,British Columbia,Vancouver,V6E,Pacific,49.2833,-123.1298,2052.12,3959.64,1971.4,2664.86,3116.78,Sugar Shack,1971.4
+United States,Missouri,Jefferson City,65109,Interior,38.5773,-92.2443,1868.16,1242.18,1107.33,349.58,434.61,Secret Factory,349.58
+United States,California,San Clemente,92672,Pacific,33.4361,-117.6231,548.43,3402.23,2418.91,2536.62,2539.49,Lot's O' Nuts,548.43
+United States,California,Hesperia,92345,Pacific,34.4222,-117.3025,540.06,3359.9,2317.5,2459.85,2489.83,Lot's O' Nuts,540.06
+United States,Nevada,Henderson,89015,Pacific,36.0357,-114.9718,457.39,3136.45,2042.04,2192.28,2257.15,Lot's O' Nuts,457.39
+United States,California,Encinitas,92024,Pacific,33.0535,-117.2689,513.47,3375.48,2429.7,2528.34,2516.49,Lot's O' Nuts,513.47
+United States,Virginia,Salem,24153,Gulf,37.2853,-80.0692,2911.65,586.66,1777.92,1013.05,920.09,Wicked Choccy's,586.66
+United States,Arizona,Yuma,85364,Pacific,32.7015,-114.6424,269.42,3138.12,2307.86,2336.56,2286.63,Lot's O' Nuts,269.42
+United States,Connecticut,Waterbury,6708,Atlantic,41.5511,-73.0645,3527.95,1271.53,1954.24,1455.06,1635.12,Wicked Choccy's,1271.53
+United States,Rhode Island,Warwick,2886,Atlantic,41.7026,-71.4476,3662.97,1369.53,2063.35,1587.29,1767.47,Wicked Choccy's,1369.53
+United States,New Jersey,Passaic,7055,Atlantic,40.8601,-74.1283,3435.16,1157.23,1917.56,1375.67,1525.18,Wicked Choccy's,1157.23
+United States,Colorado,Parker,80134,Pacific,39.4895,-104.8447,961.57,2287.49,1183.33,1225.89,1400.4,Lot's O' Nuts,961.57
+United States,Colorado,Longmont,80501,Pacific,40.1779,-105.1009,1005.8,2327.79,1132.52,1229.91,1443.58,Lot's O' Nuts,1005.8
+United States,Pennsylvania,York,17403,Atlantic,39.9494,-76.713,3211.51,959.51,1794.54,1178.31,1284.86,Wicked Choccy's,959.51
+United States,Michigan,Roseville,48066,Interior,42.5034,-82.9387,2735.96,1170.86,1206.8,641.11,1021.8,Secret Factory,641.11
+United States,Colorado,Broomfield,80020,Pacific,39.9245,-105.0609,986.02,2317.26,1153.53,1232.41,1431.8,Lot's O' Nuts,986.02
+Canada,Manitoba,Winnipeg,R0H,Interior,50.3458,-98.5152,2225.0,2486.98,300.01,1163.71,1828.56,Sugar Shack,300.01
+United States,Kentucky,Bowling Green,42104,Gulf,36.9375,-86.4481,2345.17,730.06,1474.51,614.05,375.89,The Other Factory,375.89
+United States,Florida,Pensacola,32503,Gulf,30.4564,-87.2104,2334.36,609.0,2106.8,1258.5,578.91,The Other Factory,578.91
+United States,Tennessee,Hendersonville,37075,Gulf,36.3054,-86.6072,2327.58,691.72,1529.39,666.29,331.17,The Other Factory,331.17
+United States,Wisconsin,West Allis,53214,Interior,43.0215,-88.0176,2356.28,1360.55,850.68,273.25,894.84,Secret Factory,273.25
+United States,Louisiana,Kenner,70065,Gulf,30.0252,-90.2522,2061.78,901.93,2074.44,1270.28,566.85,The Other Factory,566.85
+United States,California,Davis,95616,Pacific,38.5538,-121.7418,1098.25,3727.21,2309.7,2660.48,2838.88,Lot's O' Nuts,1098.25
+United States,Texas,Edinburg,78539,Interior,26.2792,-98.1832,1503.01,1777.79,2434.74,1825.37,1256.81,The Other Factory,1256.81
+United States,Colorado,Fort Collins,80525,Pacific,40.5384,-105.0547,1039.89,2334.85,1097.92,1218.82,1452.87,Lot's O' Nuts,1039.89
+United States,Texas,Pharr,78577,Interior,26.1771,-98.187,1508.81,1783.01,2446.09,1836.14,1266.16,The Other Factory,1266.16
+United States,Wisconsin,Sheboygan,53081,Interior,43.741,-87.7247,2407.41,1420.53,814.54,345.18,978.0,Secret Factory,345.18
+United States,Colorado,Englewood,80112,Pacific,39.5805,-104.9011,965.86,2294.61,1177.51,1228.02,1407.81,Lot's O' Nuts,965.86
+United States,Texas,Waco,76706,Interior,31.5171,-97.1198,1385.49,1514.97,1847.76,1248.99,775.24,The Other Factory,775.24
+United States,Wisconsin,Waukesha,53186,Interior,42.9993,-88.2196,2340.05,1366.41,840.8,259.08,889.31,Secret Factory,259.08
+United States,Kentucky,Georgetown,40324,Gulf,38.2117,-84.5562,2522.35,751.42,1446.74,626.4,592.82,The Other Factory,592.82
+United States,Iowa,Cedar Rapids,52402,Interior,42.0188,-91.6612,2037.68,1447.7,765.25,110.99,781.28,Secret Factory,110.99
+United States,Minnesota,Saint Paul,55106,Interior,44.9684,-93.0488,2095.32,1767.17,424.34,440.27,1126.03,Sugar Shack,424.34
+United States,North Carolina,Thomasville,27360,Gulf,35.8713,-80.0913,2913.29,431.89,1895.89,1099.38,897.97,Wicked Choccy's,431.89
+United States,Illinois,Wheeling,60090,Interior,42.134,-87.9341,2329.75,1271.45,927.16,231.16,799.94,Secret Factory,231.16
+United States,California,Stockton,95207,Pacific,38.0024,-121.3238,1035.24,3692.68,2316.71,2644.1,2805.27,Lot's O' Nuts,1035.24
+United States,Colorado,Arvada,80004,Pacific,39.8141,-105.1177,973.47,2318.9,1166.38,1239.86,1432.87,Lot's O' Nuts,973.47
+United States,Idaho,Twin Falls,83301,Pacific,42.5565,-114.4693,1101.52,3148.53,1552.59,1972.51,2267.31,Lot's O' Nuts,1101.52
+United States,California,Laguna Niguel,92677,Pacific,33.5145,-117.7084,557.1,3408.91,2417.58,2539.45,2545.43,Lot's O' Nuts,557.1
+United States,Massachusetts,Marlborough,1752,Atlantic,42.3509,-71.5434,3658.47,1419.12,2022.74,1574.29,1784.14,Wicked Choccy's,1419.12
+United States,Washington,Redmond,98052,Pacific,47.6718,-122.1232,1860.6,3848.9,1925.55,2574.51,2993.67,Lot's O' Nuts,1860.6
+United States,California,Woodland,95695,Pacific,38.6816,-121.8052,1110.48,3732.36,2305.92,2661.65,2843.87,Lot's O' Nuts,1110.48
+Canada,Saskatchewan,Regina,S0G,Pacific,50.5767,-104.1,2065.19,2792.0,634.96,1452.87,2061.46,Sugar Shack,634.96
+United States,Iowa,Iowa City,52240,Interior,41.6355,-91.5016,2033.45,1407.85,809.39,80.7,736.91,Secret Factory,80.7
+United States,Indiana,La Porte,46350,Interior,41.5994,-86.7077,2409.54,1170.39,1039.28,321.59,774.72,Secret Factory,321.59
+United States,California,Lake Forest,92630,Pacific,33.6437,-117.6868,556.71,3405.06,2405.49,2530.91,2540.55,Lot's O' Nuts,556.71
+United States,Florida,Coral Gables,33134,Gulf,25.768,-80.2714,3141.41,705.92,2846.46,1983.46,1393.2,Wicked Choccy's,705.92
+United States,Texas,The Colony,75056,Interior,33.094,-96.8836,1387.29,1482.8,1671.75,1083.27,674.85,The Other Factory,674.85
+United States,Washington,Marysville,98270,Pacific,48.0656,-122.1562,1899.29,3860.37,1919.97,2580.25,3008.34,Lot's O' Nuts,1899.29
+United States,Texas,La Porte,77571,Interior,29.6884,-95.0513,1625.82,1357.63,2051.68,1368.39,769.08,The Other Factory,769.08
+Canada,Manitoba,Winnipeg,R3R,Interior,49.8546,-97.2874,2232.25,2388.3,209.17,1070.02,1742.99,Sugar Shack,209.17
+United States,New Jersey,Bridgeton,8302,Atlantic,39.3762,-75.1617,3342.05,971.62,1939.01,1322.47,1391.73,Wicked Choccy's,971.62
+United States,California,San Luis Obispo,93405,Pacific,35.2901,-120.6817,863.06,3656.69,2466.82,2698.34,2779.07,Lot's O' Nuts,863.06
+United States,Texas,Conroe,77301,Interior,30.3125,-95.4527,1569.74,1379.24,1980.98,1313.38,740.31,The Other Factory,740.31
+United States,Iowa,Urbandale,50322,Interior,41.6295,-93.723,1864.25,1543.53,747.05,263.58,794.32,Secret Factory,263.58
+United States,Oregon,Eugene,97405,Pacific,44.0185,-123.0998,1580.23,3862.72,2114.54,2655.23,2983.5,Lot's O' Nuts,1580.23
+United States,Wyoming,Cheyenne,82001,Pacific,41.1437,-104.7962,1106.88,2333.81,1031.34,1188.02,1456.86,Sugar Shack,1031.34
+United States,Illinois,Arlington Heights,60004,Interior,42.112,-87.9792,2325.45,1271.25,926.55,226.86,796.71,Secret Factory,226.86
+United States,Washington,Auburn,98002,Pacific,47.305,-122.2067,1829.37,3847.01,1939.99,2578.35,2988.76,Lot's O' Nuts,1829.37
+United States,Washington,Vancouver,98661,Pacific,45.6418,-122.6251,1695.55,3847.43,2018.46,2607.66,2977.16,Lot's O' Nuts,1695.55
+United States,North Carolina,Burlington,27217,Gulf,36.1288,-79.4114,2973.06,476.32,1913.13,1131.86,960.57,Wicked Choccy's,476.32
+United States,New Mexico,Carlsbad,88220,Pacific,32.4119,-104.2395,706.66,2173.34,1873.07,1573.43,1351.53,Lot's O' Nuts,706.66
+United States,Oklahoma,Edmond,73034,Interior,35.6665,-97.4798,1347.55,1562.98,1388.78,879.47,683.2,The Other Factory,683.2
+United States,California,Montebello,90640,Pacific,34.0133,-118.113,601.87,3439.03,2401.41,2546.86,2571.23,Lot's O' Nuts,601.87
+United States,Connecticut,Shelton,6484,Atlantic,41.3047,-73.1294,3521.15,1246.37,1963.31,1452.49,1620.65,Wicked Choccy's,1246.37
+United States,New Jersey,East Orange,7017,Atlantic,40.7696,-74.2077,3428.01,1145.15,1917.32,1370.51,1515.51,Wicked Choccy's,1145.15
+United States,Kansas,Overland Park,66212,Interior,38.9568,-94.6832,1676.75,1446.48,1025.88,445.92,597.47,Secret Factory,445.92
+United States,North Carolina,Hickory,28601,Gulf,35.7576,-81.3289,2802.37,409.96,1837.03,1020.92,785.92,Wicked Choccy's,409.96
+United States,Texas,San Angelo,76903,Interior,31.4707,-100.4386,1077.23,1827.99,1885.85,1415.69,1053.29,The Other Factory,1053.29
+United States,Iowa,Marion,52302,Interior,42.0411,-91.5941,2043.75,1445.68,765.48,107.96,782.64,Secret Factory,107.96
+United States,California,Morgan Hill,95037,Pacific,37.1353,-121.6501,1015.94,3726.22,2398.63,2702.66,2840.88,Lot's O' Nuts,1015.94
+United States,Kentucky,Murray,42071,Gulf,36.6099,-88.3032,2177.89,831.98,1432.3,572.13,223.89,The Other Factory,223.89
+United States,California,Antioch,94509,Pacific,37.9939,-121.8089,1071.68,3735.2,2351.24,2684.8,2847.76,Lot's O' Nuts,1071.68
+United States,Texas,Richardson,75080,Interior,32.966,-96.7452,1401.01,1469.94,1685.61,1089.55,668.25,The Other Factory,668.25
+United States,Nebraska,Fremont,68025,Interior,41.4416,-96.4945,1650.61,1718.37,742.92,494.1,904.24,Secret Factory,494.1
+United States,Indiana,Greenwood,46142,Interior,39.6224,-86.149,2406.69,954.63,1238.58,424.7,604.01,Secret Factory,424.7
+United States,Florida,Homestead,33030,Gulf,25.4766,-80.4839,3134.0,736.2,2866.94,2003.52,1405.14,Wicked Choccy's,736.2
+United States,California,Torrance,90503,Pacific,33.8397,-118.3542,620.76,3463.49,2430.69,2575.47,2596.75,Lot's O' Nuts,620.76
+United States,California,Apple Valley,92307,Pacific,34.5291,-117.2132,535.87,3350.56,2303.21,2447.24,2479.8,Lot's O' Nuts,535.87
+United States,North Carolina,Goldsboro,27534,Gulf,35.3664,-77.9221,3112.63,468.55,2065.17,1290.57,1093.91,Wicked Choccy's,468.55
+United States,New Hampshire,Nashua,3060,Atlantic,42.7564,-71.4667,3667.52,1458.09,2008.34,1579.01,1806.36,Wicked Choccy's,1458.09
+United States,Texas,Deer Park,77536,Interior,29.6826,-95.1222,1619.46,1364.41,2052.04,1370.9,773.73,The Other Factory,773.73
+United States,Alabama,Tuscaloosa,35401,Gulf,33.1969,-87.5627,2251.5,618.81,1808.77,954.77,307.74,The Other Factory,307.74
+United States,Florida,Ormond Beach,32174,Gulf,29.2833,-81.0882,2938.51,310.55,2460.23,1600.05,1057.22,Wicked Choccy's,310.55
+United States,Texas,Keller,76248,Interior,32.9276,-97.2489,1354.39,1516.98,1691.59,1116.19,713.33,The Other Factory,713.33
+United States,Alabama,Hoover,35244,Gulf,33.3538,-86.8254,2317.97,555.13,1818.03,958.31,349.38,The Other Factory,349.38
+United States,Oklahoma,Muskogee,74403,Interior,35.7411,-95.3449,1539.55,1375.8,1378.09,757.98,491.74,The Other Factory,491.74
+United States,Arkansas,Rogers,72756,Gulf,36.3363,-94.1148,1658.04,1286.8,1321.06,645.78,397.8,The Other Factory,397.8
+United States,Florida,Pompano Beach,33068,Gulf,26.216,-80.2205,3127.76,657.04,2803.59,1941.05,1358.41,Wicked Choccy's,657.04
+United States,California,Fairfield,94533,Pacific,38.2671,-122.0357,1103.87,3753.82,2349.13,2694.38,2865.89,Lot's O' Nuts,1103.87
+United States,Michigan,Oak Park,48237,Interior,42.4662,-83.184,2715.44,1169.99,1192.95,620.61,1006.07,Secret Factory,620.61
+United States,New Jersey,New Brunswick,8901,Atlantic,40.4891,-74.4482,3406.39,1107.95,1917.31,1355.43,1486.14,Wicked Choccy's,1107.95
+United States,Colorado,Greeley,80634,Pacific,40.4109,-104.7541,1044.4,2306.48,1094.32,1196.18,1424.15,Lot's O' Nuts,1044.4
+United States,Florida,Kissimmee,34741,Gulf,28.3051,-81.4242,2938.25,420.56,2542.68,1680.06,1107.01,Wicked Choccy's,420.56
+United States,Florida,Sanford,32771,Gulf,28.8013,-81.285,2935.03,364.64,2499.25,1637.59,1078.39,Wicked Choccy's,364.64
+United States,Illinois,Danville,61832,Interior,40.137,-87.6217,2294.97,1070.64,1118.57,287.4,595.19,Secret Factory,287.4
+United States,California,Westminster,92683,Pacific,33.7524,-117.9939,586.45,3431.7,2415.44,2550.41,2566.0,Lot's O' Nuts,586.45
+United States,Texas,Mansfield,76063,Interior,32.5773,-97.1416,1367.49,1507.98,1730.05,1145.22,719.68,The Other Factory,719.68
+United States,North Dakota,Fargo,58103,Interior,46.8564,-96.8123,2003.7,2118.38,148.2,780.67,1424.65,Sugar Shack,148.2
+United States,Maryland,Laurel,20707,Atlantic,39.1077,-76.872,3194.15,869.59,1841.48,1189.04,1241.93,Wicked Choccy's,869.59
+United States,Washington,Bellingham,98226,Pacific,48.7974,-122.4448,1980.08,3898.87,1928.55,2609.2,3052.74,Sugar Shack,1928.55
+United States,Texas,Missouri City,77489,Interior,29.5962,-95.5115,1586.35,1403.24,2060.45,1390.96,804.5,The Other Factory,804.5
+United States,Texas,Pearland,77581,Interior,29.5617,-95.2721,1609.59,1381.89,2064.96,1387.88,793.21,The Other Factory,793.21
+United States,Michigan,Rochester Hills,48307,Interior,42.6593,-83.1225,2725.45,1190.33,1184.48,628.93,1026.14,Secret Factory,628.93
+United States,Minnesota,Maple Grove,55369,Interior,45.1284,-93.4589,2078.57,1801.56,392.13,471.6,1151.68,Sugar Shack,392.13
+United States,North Carolina,Chapel Hill,27514,Gulf,35.9203,-79.0372,3007.83,467.37,1952.65,1172.73,993.06,Wicked Choccy's,467.37
+United States,Colorado,Commerce City,80022,Pacific,39.8259,-104.9113,985.84,2302.15,1155.32,1222.4,1416.38,Lot's O' Nuts,985.84
+United States,West Virginia,Wheeling,26003,Atlantic,40.1027,-80.6476,2878.98,893.38,1522.63,847.91,989.97,Secret Factory,847.91
+United States,California,Citrus Heights,95610,Pacific,38.6946,-121.2692,1072.39,3685.82,2267.21,2616.66,2797.33,Lot's O' Nuts,1072.39
+United States,California,Pico Rivera,90660,Pacific,33.9886,-118.0883,599.14,3437.1,2401.89,2546.08,2569.51,Lot's O' Nuts,599.14
+United States,California,San Mateo,94403,Pacific,37.5395,-122.2998,1087.01,3780.83,2416.15,2741.81,2894.32,Lot's O' Nuts,1087.01
+United States,Iowa,Waterloo,50701,Interior,42.4778,-92.3661,2006.09,1524.72,694.42,187.93,844.23,Secret Factory,187.93
+United States,Indiana,Elkhart,46514,Interior,41.7101,-85.9729,2471.68,1155.42,1072.61,383.09,811.37,Secret Factory,383.09
+United States,Colorado,Loveland,80538,Pacific,40.4262,-105.09,1028.16,2334.28,1109.71,1223.88,1451.53,Lot's O' Nuts,1028.16
+United States,California,Inglewood,90301,Pacific,33.955,-118.3556,622.81,3462.02,2421.35,2569.73,2594.42,Lot's O' Nuts,622.81
+United States,California,La Mesa,91941,Pacific,32.7604,-117.0115,490.11,3356.47,2439.34,2523.64,2500.54,Lot's O' Nuts,490.11
+United States,California,Modesto,95351,Pacific,37.6236,-120.9966,989.3,3665.66,2319.65,2630.17,2779.11,Lot's O' Nuts,989.3
+United States,Missouri,Independence,64055,Interior,39.0545,-94.4039,1703.08,1430.37,1017.98,420.46,588.27,Secret Factory,420.46
+United States,New Mexico,Clovis,88101,Pacific,34.4126,-103.2214,808.95,2070.45,1632.01,1355.57,1212.0,Lot's O' Nuts,808.95
+United States,Nebraska,Grand Island,68801,Interior,40.9219,-98.3411,1488.62,1823.95,818.32,653.09,975.96,Secret Factory,653.09
+United States,Florida,Melbourne,32935,Gulf,28.1384,-80.6524,3015.93,439.86,2592.9,1731.89,1173.94,Wicked Choccy's,439.86
+United States,Arkansas,Pine Bluff,71603,Gulf,34.1897,-92.0448,1830.97,1046.35,1586.5,817.26,215.91,The Other Factory,215.91
+United States,Minnesota,Saint Cloud,56301,Interior,45.541,-94.1819,2059.56,1873.27,324.5,540.61,1212.29,Sugar Shack,324.5
+United States,Florida,Miramar,33023,Gulf,25.9894,-80.2153,3137.46,682.11,2826.57,1963.83,1377.89,Wicked Choccy's,682.11
+United States,Ohio,Mentor,44060,Atlantic,41.6895,-81.3421,2846.43,1069.19,1366.55,767.43,1047.48,Secret Factory,767.43
+United States,Idaho,Meridian,83642,Pacific,43.615,-116.3975,1259.52,3324.19,1637.87,2121.74,2447.02,Lot's O' Nuts,1259.52
+United States,California,Danville,94526,Pacific,37.814,-121.966,1074.32,3749.87,2374.28,2704.17,2862.78,Lot's O' Nuts,1074.32
+United States,Arkansas,Springdale,72762,Gulf,36.1835,-94.1762,1650.23,1286.97,1337.31,663.41,397.97,The Other Factory,397.97
+United States,California,Sunnyvale,94086,Pacific,37.3764,-122.0238,1057.25,3757.58,2407.96,2724.79,2871.52,Lot's O' Nuts,1057.25
+United States,California,Coachella,92236,Pacific,33.675,-116.1772,419.22,3265.97,2311.52,2406.17,2402.9,Lot's O' Nuts,419.22
+United States,South Dakota,Aberdeen,57401,Interior,45.4661,-98.4856,1803.01,2110.49,343.19,779.45,1356.75,Sugar Shack,343.19
+United States,Florida,Jupiter,33458,Gulf,26.9339,-80.1201,3109.0,579.41,2736.16,1874.69,1305.93,Wicked Choccy's,579.41
+United States,California,Dublin,94568,Pacific,37.7166,-121.9226,1065.94,3746.59,2377.8,2704.0,2859.72,Lot's O' Nuts,1065.94
+United States,Ohio,Grove City,43123,Atlantic,39.8814,-83.0839,2669.99,886.21,1388.17,654.35,805.6,Secret Factory,654.35
+United States,Ohio,Elyria,44035,Atlantic,41.3724,-82.1051,2777.68,1037.63,1337.85,705.33,976.72,Secret Factory,705.33
+United States,Maryland,Hagerstown,21740,Atlantic,39.632,-77.7372,3122.24,892.61,1747.0,1101.57,1190.52,Wicked Choccy's,892.61
+United States,Michigan,Saginaw,48601,Interior,43.4047,-83.9156,2684.98,1283.75,1084.54,587.44,1058.03,Secret Factory,587.44
+United States,Texas,College Station,77840,Interior,30.6045,-96.3123,1481.88,1453.83,1947.57,1310.85,775.96,The Other Factory,775.96
+United States,California,Ontario,91761,Pacific,34.0316,-117.6187,557.53,3393.55,2369.18,2505.38,2526.09,Lot's O' Nuts,557.53
+United States,Washington,Renton,98059,Pacific,47.5058,-122.1157,1844.61,3844.65,1928.65,2572.76,2988.09,Lot's O' Nuts,1844.61
+United States,Michigan,Canton,48187,Interior,42.332,-83.4695,2689.14,1159.59,1183.1,595.4,979.95,Secret Factory,595.4
+United States,South Carolina,Summerville,29483,Gulf,33.028,-80.1739,2936.61,136.19,2145.86,1310.53,931.36,Wicked Choccy's,136.19
+United States,Missouri,Gladstone,64118,Interior,39.2133,-94.5743,1694.87,1451.77,998.62,420.79,611.2,Secret Factory,420.79
+United States,California,Whittier,90604,Pacific,33.9299,-118.0121,591.1,3430.91,2401.96,2542.81,2563.84,Lot's O' Nuts,591.1
+United States,Texas,Abilene,79605,Interior,32.432,-99.7724,1123.5,1755.19,1770.21,1292.29,953.36,The Other Factory,953.36
+United States,Iowa,Burlington,52601,Interior,40.8087,-91.117,2031.27,1320.14,906.3,84.62,640.74,Secret Factory,84.62
+United States,Illinois,Palatine,60067,Interior,42.1139,-88.0429,2320.53,1274.14,922.95,221.94,795.73,Secret Factory,221.94
+United States,Illinois,Oak Park,60302,Interior,41.8925,-87.7895,2332.82,1242.26,955.26,235.84,776.82,Secret Factory,235.84
+United States,Florida,Port Orange,32127,Gulf,29.1383,-80.9956,2951.55,326.8,2478.68,1618.5,1074.5,Wicked Choccy's,326.8
+United States,Connecticut,Danbury,6810,Atlantic,41.3917,-73.4532,3494.65,1238.12,1935.11,1424.57,1598.58,Wicked Choccy's,1238.12
+United States,Washington,Everett,98208,Pacific,47.8948,-122.1987,1884.69,3859.49,1926.44,2581.9,3005.98,Lot's O' Nuts,1884.69
