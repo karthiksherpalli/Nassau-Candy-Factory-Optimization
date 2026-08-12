@@ -1,6 +1,8 @@
 # Nassau Candy Factory Reallocation & Shipping Optimization
 ## 📌 Project Overview
+
 The **Nassau Candy Factory Reallocation & Shipping Optimization Recommendation System** is a data-driven solution designed to identify better factory assignments for customer orders.
+
 The system analyzes customer locations, factory locations, shipping distances, sales, gross profit, ship mode, and regional information to recommend alternative factories that can reduce transportation distance and improve logistics efficiency.
 
 ## 🎯 Objectives
