@@ -1,0 +1,16 @@
+import pandas as pd
+import numpy as np
+df = pd.read_csv("01_Dataset/Nassau Candy Distributor.csv")
+print(df.head())
+print("\nDataset Shape:")
+print(df.shape)
+print("\nColumn Names:")
+print(df.columns.tolist())
+print("\nDataset Information:")
+df.info()
+print("\nMissing Values:")
+print(df.isnull().sum())
+print("\nDuplicate Rows:")
+print(df.duplicated().sum())
+print("\nStatistical Summary:")
+print(df.describe())

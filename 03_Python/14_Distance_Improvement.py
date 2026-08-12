@@ -1,0 +1,11 @@
+import pandas as pd
+df = pd.read_csv("01_Dataset/Current_vs_Alternative_Factory.csv")
+df["Current Distance KM"] = df.apply(lambda x: x["Distance to " + x["Factory"] + " (KM)"], axis=1)
+df["Distance Saved KM"] = (df["Current Distance KM"] - df["Nearest Factory Distance KM"])
+df["Distance Improvement %"] = (df["Distance Saved KM"] / df["Current Distance KM"] * 100)
+print("\n===== DISTANCE IMPROVEMENT =====")
+print("Average Current Distance:", round(df["Current Distance KM"].mean(), 2), "KM")
+print("Average Distance Saved:", round(df["Distance Saved KM"].mean(), 2), "KM")
+print("Average Improvement:", round(df["Distance Improvement %"].mean(), 2), "%")
+df.to_csv("01_Dataset/Distance_Improvement.csv", index=False)
+print("\nDistance improvement completed successfully.")
